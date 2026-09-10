@@ -1,0 +1,9 @@
+{
+  "frozen/candidates.csv.gz": "32fbce13f5ef008f71813a7fd15e1008f7d81caa568a7893335b07d631b53c6e",
+  "frozen/raw_results.csv.gz": "8784e6e8d30d3d5a76f69621f9f675413005fc8bc1bb98860887e860d21eb2ae",
+  "frozen/representations.csv.gz": "46a4724136a8c7183b4415085140fd2f0d4eb2ba45d8e35351c1f665db1f459a",
+  "frozen/statistics_reference.json": "4dd5f27e4538fcf81177a9d433844bddaadc4fd4aaa0e75fbc05602fa66a6563",
+  "assets/data_checksums.json": "64bf3a74c8aae44d24fc1ee91430191cbbd0be94d9bf7852c8dc3e34b2a52a0a",
+  "assets/figure_1.pdf": "10e15a9d361f26be2376dbce074af25ffd6a5eef27f09ed57144fdbb8653da80",
+  "assets/sources.json": "b501fe69541c2e046de844e7a3ef6a6be343062e622eab1e964085a95c5a4277"
+}

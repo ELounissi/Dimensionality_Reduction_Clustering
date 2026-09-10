@@ -1,0 +1,21 @@
+dataset_id,display_name,n_samples,n_features,n_clusters
+breast_tissue,Breast tissue,106,9,6
+breast_wisconsin,Breast Wisconsin,569,30,2
+ecoli,Ecoli,336,7,8
+glass,Glass,214,9,6
+haberman,Haberman,306,3,2
+ionosphere,Ionosphere,351,34,2
+iris,Iris,150,4,3
+movement_libras,Movement libras,360,90,15
+musk,Musk,476,166,2
+parkinsons,Parkinsons,195,22,2
+segmentation,Segmentation,2310,19,7
+sonar,Sonar all,208,60,2
+spectf,Spectf,267,44,2
+transfusion,Transfusion,748,4,2
+vehicle,Vehicle,846,18,4
+vertebral_column,Vertebral column,310,6,3
+vowel_context,Vowel context,990,10,11
+wine,Wine,178,13,3
+wine_quality_red,Wine quality red,1599,11,6
+yeast,Yeast,1484,8,10

@@ -1,0 +1,2488 @@
+[
+  {
+    "id": 31387645,
+    "version": 1,
+    "title": "Circles datasets",
+    "doi": "10.6084/m9.figshare.31387645.v1",
+    "license": {
+      "value": 3,
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    },
+    "folder_structure": {},
+    "files": [
+      {
+        "id": 62066170,
+        "name": "Circles_datasets.rar",
+        "size": 440530563,
+        "download_url": "https://ndownloader.figshare.com/files/62066170",
+        "supplied_md5": "165abfc5ee46ac61a6512cb692eb9ce8"
+      }
+    ]
+  },
+  {
+    "id": 31387609,
+    "version": 1,
+    "title": "Moons datasets",
+    "doi": "10.6084/m9.figshare.31387609.v1",
+    "license": {
+      "value": 3,
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    },
+    "folder_structure": {},
+    "files": [
+      {
+        "id": 62066128,
+        "name": "Moons_datasets.rar",
+        "size": 452501236,
+        "download_url": "https://ndownloader.figshare.com/files/62066128",
+        "supplied_md5": "34f7ac77966fd6e6737b2072e5ab8ff5"
+      }
+    ]
+  },
+  {
+    "id": 31387732,
+    "version": 1,
+    "title": "Repliclust datasets",
+    "doi": "10.6084/m9.figshare.31387732.v1",
+    "license": {
+      "value": 3,
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    },
+    "folder_structure": {},
+    "files": [
+      {
+        "id": 62066482,
+        "name": "repliclust_datasets.rar",
+        "size": 463096090,
+        "download_url": "https://ndownloader.figshare.com/files/62066482",
+        "supplied_md5": "106e99b6d2e22c1a9ba97f1f435213b8"
+      }
+    ]
+  },
+  {
+    "id": 31383301,
+    "version": 1,
+    "title": "RSG datasets",
+    "doi": "10.6084/m9.figshare.31383301.v1",
+    "license": {
+      "value": 3,
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    },
+    "folder_structure": {
+      "62049937": "",
+      "62049940": "Rodriguez_datasets/C50_50Features",
+      "62049946": "Rodriguez_datasets/C50_50Features",
+      "62049949": "Rodriguez_datasets/C50_50Features",
+      "62049955": "Rodriguez_datasets/C50_50Features",
+      "62049952": "Rodriguez_datasets/C50_50Features",
+      "62049961": "Rodriguez_datasets/C50_50Features",
+      "62049958": "Rodriguez_datasets/C50_50Features",
+      "62049973": "Rodriguez_datasets/C50_50Features",
+      "62049964": "Rodriguez_datasets/C50_50Features",
+      "62049979": "Rodriguez_datasets/C50_50Features",
+      "62049967": "Rodriguez_datasets/C50_200Features",
+      "62049970": "Rodriguez_datasets/C50_50Features",
+      "62049994": "Rodriguez_datasets/C50_200Features",
+      "62049976": "Rodriguez_datasets/C50_50Features",
+      "62049985": "Rodriguez_datasets/C50_200Features",
+      "62049991": "Rodriguez_datasets/C50_200Features",
+      "62049997": "Rodriguez_datasets/C50_200Features",
+      "62049988": "Rodriguez_datasets/C50_50Features",
+      "62050000": "Rodriguez_datasets/C50_200Features",
+      "62050006": "Rodriguez_datasets/C50_200Features",
+      "62050012": "Rodriguez_datasets/C50_10Features",
+      "62050003": "Rodriguez_datasets/C50_200Features",
+      "62050015": "Rodriguez_datasets/C50_10Features",
+      "62050009": "Rodriguez_datasets/C50_10Features",
+      "62050021": "Rodriguez_datasets/C50_10Features",
+      "62050018": "Rodriguez_datasets/C50_10Features",
+      "62050027": "Rodriguez_datasets/C50_10Features",
+      "62050024": "Rodriguez_datasets/C50_10Features",
+      "62050030": "Rodriguez_datasets/C50_10Features",
+      "62050033": "Rodriguez_datasets/C50_10Features",
+      "62050036": "Rodriguez_datasets/C50_10Features",
+      "62050045": "Rodriguez_datasets/C50_50Features",
+      "62050048": "Rodriguez_datasets/C50_10Features",
+      "62050042": "Rodriguez_datasets/C50_10Features",
+      "62050039": "Rodriguez_datasets/C50_50Features",
+      "62050054": "Rodriguez_datasets/C50_10Features",
+      "62050051": "Rodriguez_datasets/C50_50Features",
+      "62050057": "Rodriguez_datasets/C50_10Features",
+      "62050060": "Rodriguez_datasets/C50_10Features",
+      "62050063": "Rodriguez_datasets/C50_50Features",
+      "62050066": "Rodriguez_datasets/C50_50Features",
+      "62050072": "Rodriguez_datasets/C50_10Features",
+      "62050069": "Rodriguez_datasets/C50_50Features",
+      "62050075": "Rodriguez_datasets/C50_50Features",
+      "62049982": "Rodriguez_datasets/C50_50Features",
+      "62050078": "Rodriguez_datasets/C50_50Features",
+      "62050081": "Rodriguez_datasets/C50_200Features",
+      "62050087": "Rodriguez_datasets/C50_10Features",
+      "62050090": "Rodriguez_datasets/C50_10Features",
+      "62050093": "Rodriguez_datasets/C50_50Features",
+      "62050084": "Rodriguez_datasets/C50_200Features",
+      "62049943": "Rodriguez_datasets/C50_50Features",
+      "62050096": "Rodriguez_datasets/C50_10Features",
+      "62050099": "Rodriguez_datasets/C50_50Features",
+      "62050102": "Rodriguez_datasets/C50_50Features",
+      "62050105": "Rodriguez_datasets/C50_50Features",
+      "62050111": "Rodriguez_datasets/C50_50Features",
+      "62050117": "Rodriguez_datasets/C50_10Features",
+      "62050123": "Rodriguez_datasets/C50_10Features",
+      "62050114": "Rodriguez_datasets/C50_10Features",
+      "62050108": "Rodriguez_datasets/C50_10Features",
+      "62050126": "Rodriguez_datasets/C50_10Features",
+      "62050129": "Rodriguez_datasets/C2_50Features",
+      "62050135": "Rodriguez_datasets/C50_10Features",
+      "62050132": "Rodriguez_datasets/C50_10Features",
+      "62050138": "Rodriguez_datasets/C50_10Features",
+      "62050150": "Rodriguez_datasets/C50_10Features",
+      "62050141": "Rodriguez_datasets/C50_10Features",
+      "62050147": "Rodriguez_datasets/C2_50Features",
+      "62050165": "Rodriguez_datasets/C2_50Features",
+      "62050159": "Rodriguez_datasets/C2_50Features",
+      "62050162": "Rodriguez_datasets/C2_50Features",
+      "62050144": "Rodriguez_datasets/C2_50Features",
+      "62050168": "Rodriguez_datasets/C2_50Features",
+      "62050171": "Rodriguez_datasets/C50_200Features",
+      "62050180": "Rodriguez_datasets/C2_50Features",
+      "62050177": "Rodriguez_datasets/C2_50Features",
+      "62050174": "Rodriguez_datasets/C2_50Features",
+      "62050183": "Rodriguez_datasets/C50_200Features",
+      "62050186": "Rodriguez_datasets/C50_200Features",
+      "62050153": "Rodriguez_datasets/C2_50Features",
+      "62050189": "Rodriguez_datasets/C50_200Features",
+      "62050195": "Rodriguez_datasets/C2_50Features",
+      "62050192": "Rodriguez_datasets/C50_200Features",
+      "62050207": "Rodriguez_datasets/C2_50Features",
+      "62050198": "Rodriguez_datasets/C50_200Features",
+      "62050201": "Rodriguez_datasets/C2_50Features",
+      "62050210": "Rodriguez_datasets/C2_50Features",
+      "62050213": "Rodriguez_datasets/C50_200Features",
+      "62050216": "Rodriguez_datasets/C2_50Features",
+      "62050156": "Rodriguez_datasets/C2_50Features",
+      "62050204": "Rodriguez_datasets/C50_200Features",
+      "62050225": "Rodriguez_datasets/C2_50Features",
+      "62050219": "Rodriguez_datasets/C2_50Features",
+      "62050222": "Rodriguez_datasets/C2_50Features",
+      "62050228": "Rodriguez_datasets/C2_50Features",
+      "62050231": "Rodriguez_datasets/C2_50Features",
+      "62050234": "Rodriguez_datasets/C2_200Features",
+      "62050237": "Rodriguez_datasets/C2_50Features",
+      "62050240": "Rodriguez_datasets/C2_200Features",
+      "62050246": "Rodriguez_datasets/C2_200Features",
+      "62050249": "Rodriguez_datasets/C2_200Features",
+      "62050252": "Rodriguez_datasets/C2_200Features",
+      "62050243": "Rodriguez_datasets/C2_200Features",
+      "62050261": "Rodriguez_datasets/C2_50Features",
+      "62050255": "Rodriguez_datasets/C2_200Features",
+      "62050258": "Rodriguez_datasets/C2_200Features",
+      "62050267": "Rodriguez_datasets/C50_200Features",
+      "62050264": "Rodriguez_datasets/C2_50Features",
+      "62050270": "Rodriguez_datasets/C2_50Features",
+      "62050273": "Rodriguez_datasets/C2_200Features",
+      "62050279": "Rodriguez_datasets/C2_200Features",
+      "62050288": "Rodriguez_datasets/C2_50Features",
+      "62050276": "Rodriguez_datasets/C2_200Features",
+      "62050285": "Rodriguez_datasets/C2_200Features",
+      "62050120": "Rodriguez_datasets/C50_50Features",
+      "62050282": "Rodriguez_datasets/C2_200Features",
+      "62050291": "Rodriguez_datasets/C2_50Features",
+      "62050300": "Rodriguez_datasets/C2_200Features",
+      "62050297": "Rodriguez_datasets/C50_200Features",
+      "62050309": "Rodriguez_datasets/C2_200Features",
+      "62050306": "Rodriguez_datasets/C2_200Features",
+      "62050303": "Rodriguez_datasets/C2_200Features",
+      "62050315": "Rodriguez_datasets/C2_200Features",
+      "62050312": "Rodriguez_datasets/C2_200Features",
+      "62050318": "Rodriguez_datasets/C2_50Features",
+      "62050294": "Rodriguez_datasets/C2_50Features",
+      "62050321": "Rodriguez_datasets/C2_200Features",
+      "62050324": "Rodriguez_datasets/C2_200Features",
+      "62050327": "Rodriguez_datasets/C2_200Features",
+      "62050330": "Rodriguez_datasets/C2_200Features",
+      "62050333": "Rodriguez_datasets/C2_10Features",
+      "62050339": "Rodriguez_datasets/C2_10Features",
+      "62050342": "Rodriguez_datasets/C2_200Features",
+      "62050336": "Rodriguez_datasets/C2_10Features",
+      "62050348": "Rodriguez_datasets/C2_200Features",
+      "62050345": "Rodriguez_datasets/C2_200Features",
+      "62050357": "Rodriguez_datasets/C2_10Features",
+      "62050351": "Rodriguez_datasets/C2_10Features",
+      "62050354": "Rodriguez_datasets/C2_10Features",
+      "62050360": "Rodriguez_datasets/C2_10Features",
+      "62050372": "Rodriguez_datasets/C2_10Features",
+      "62050363": "Rodriguez_datasets/C2_10Features",
+      "62050384": "Rodriguez_datasets/C2_10Features",
+      "62050387": "Rodriguez_datasets/C2_10Features",
+      "62050378": "Rodriguez_datasets/C2_10Features",
+      "62050369": "Rodriguez_datasets/C2_200Features",
+      "62050381": "Rodriguez_datasets/C2_10Features",
+      "62050375": "Rodriguez_datasets/C2_10Features",
+      "62050366": "Rodriguez_datasets/C2_200Features",
+      "62050399": "Rodriguez_datasets/C2_10Features",
+      "62050396": "Rodriguez_datasets/C2_10Features",
+      "62050402": "Rodriguez_datasets/C2_10Features",
+      "62050390": "Rodriguez_datasets/C2_10Features",
+      "62050393": "Rodriguez_datasets/C2_200Features",
+      "62050405": "Rodriguez_datasets/C2_10Features",
+      "62050411": "Rodriguez_datasets/C2_10Features",
+      "62050414": "Rodriguez_datasets/C2_10Features",
+      "62050408": "Rodriguez_datasets/C2_10Features",
+      "62050417": "Rodriguez_datasets/C2_10Features",
+      "62050420": "Rodriguez_datasets/C2_200Features",
+      "62050429": "Rodriguez_datasets/C2_10Features",
+      "62050423": "Rodriguez_datasets/C2_10Features",
+      "62050426": "Rodriguez_datasets/C2_10Features",
+      "62050438": "Rodriguez_datasets/C10_50Features",
+      "62050432": "Rodriguez_datasets/C10_50Features",
+      "62050435": "Rodriguez_datasets/C10_50Features",
+      "62050441": "Rodriguez_datasets/C10_50Features",
+      "62050444": "Rodriguez_datasets/C10_50Features",
+      "62050453": "Rodriguez_datasets/C10_50Features",
+      "62050447": "Rodriguez_datasets/C10_50Features",
+      "62050450": "Rodriguez_datasets/C10_50Features",
+      "62050456": "Rodriguez_datasets/C10_50Features",
+      "62050459": "Rodriguez_datasets/C10_50Features",
+      "62050462": "Rodriguez_datasets/C10_50Features",
+      "62050465": "Rodriguez_datasets/C10_50Features",
+      "62050471": "Rodriguez_datasets/C10_50Features",
+      "62050474": "Rodriguez_datasets/C10_50Features",
+      "62050480": "Rodriguez_datasets/C10_50Features",
+      "62050468": "Rodriguez_datasets/C10_50Features",
+      "62050477": "Rodriguez_datasets/C10_50Features",
+      "62050483": "Rodriguez_datasets/C10_50Features",
+      "62050486": "Rodriguez_datasets/C10_50Features",
+      "62050489": "Rodriguez_datasets/C10_50Features",
+      "62050492": "Rodriguez_datasets/C10_50Features",
+      "62050495": "Rodriguez_datasets/C10_50Features",
+      "62050498": "Rodriguez_datasets/C10_50Features",
+      "62050501": "Rodriguez_datasets/C10_50Features",
+      "62050507": "Rodriguez_datasets/C10_50Features",
+      "62050510": "Rodriguez_datasets/C10_50Features",
+      "62050513": "Rodriguez_datasets/C10_50Features",
+      "62050516": "Rodriguez_datasets/C10_50Features",
+      "62050519": "Rodriguez_datasets/C10_50Features",
+      "62050522": "Rodriguez_datasets/C10_50Features",
+      "62050525": "Rodriguez_datasets/C10_200Features",
+      "62050528": "Rodriguez_datasets/C10_200Features",
+      "62050534": "Rodriguez_datasets/C10_200Features",
+      "62050537": "Rodriguez_datasets/C10_200Features",
+      "62050540": "Rodriguez_datasets/C10_200Features",
+      "62050543": "Rodriguez_datasets/C10_200Features",
+      "62050546": "Rodriguez_datasets/C10_200Features",
+      "62050549": "Rodriguez_datasets/C10_200Features",
+      "62050552": "Rodriguez_datasets/C10_200Features",
+      "62050555": "Rodriguez_datasets/C10_200Features",
+      "62050567": "Rodriguez_datasets/C10_200Features",
+      "62050561": "Rodriguez_datasets/C10_200Features",
+      "62050564": "Rodriguez_datasets/C10_200Features",
+      "62050558": "Rodriguez_datasets/C10_200Features",
+      "62050585": "Rodriguez_datasets/C10_200Features",
+      "62050576": "Rodriguez_datasets/C10_200Features",
+      "62050570": "Rodriguez_datasets/C10_200Features",
+      "62050573": "Rodriguez_datasets/C10_200Features",
+      "62050591": "Rodriguez_datasets/C10_200Features",
+      "62050597": "Rodriguez_datasets/C10_200Features",
+      "62050579": "Rodriguez_datasets/C10_200Features",
+      "62050582": "Rodriguez_datasets/C10_200Features",
+      "62050588": "Rodriguez_datasets/C10_200Features",
+      "62050600": "Rodriguez_datasets/C10_200Features",
+      "62050594": "Rodriguez_datasets/C10_200Features",
+      "62050603": "Rodriguez_datasets/C10_200Features",
+      "62050606": "Rodriguez_datasets/C10_200Features",
+      "62050609": "Rodriguez_datasets/C10_200Features",
+      "62050621": "Rodriguez_datasets/C10_200Features",
+      "62050624": "Rodriguez_datasets/C10_10Features",
+      "62050627": "Rodriguez_datasets/C10_10Features",
+      "62050615": "Rodriguez_datasets/C10_10Features",
+      "62050612": "Rodriguez_datasets/C10_200Features",
+      "62050630": "Rodriguez_datasets/C10_10Features",
+      "62050618": "Rodriguez_datasets/C10_10Features",
+      "62050648": "Rodriguez_datasets/C10_10Features",
+      "62050633": "Rodriguez_datasets/C10_10Features",
+      "62050645": "Rodriguez_datasets/C10_10Features",
+      "62050636": "Rodriguez_datasets/C10_10Features",
+      "62050669": "Rodriguez_datasets/C10_10Features",
+      "62050642": "Rodriguez_datasets/C10_10Features",
+      "62050651": "Rodriguez_datasets/C10_10Features",
+      "62050639": "Rodriguez_datasets/C10_10Features",
+      "62050657": "Rodriguez_datasets/C10_10Features",
+      "62050654": "Rodriguez_datasets/C10_10Features",
+      "62050675": "Rodriguez_datasets/C10_10Features",
+      "62050681": "Rodriguez_datasets/C50_200Features",
+      "62050660": "Rodriguez_datasets/C10_10Features",
+      "62050678": "Rodriguez_datasets/C10_10Features",
+      "62050663": "Rodriguez_datasets/C10_10Features",
+      "62050666": "Rodriguez_datasets/C10_10Features",
+      "62050672": "Rodriguez_datasets/C50_200Features",
+      "62050687": "Rodriguez_datasets/C50_200Features",
+      "62050684": "Rodriguez_datasets/C10_10Features",
+      "62050690": "Rodriguez_datasets/C10_10Features",
+      "62050699": "Rodriguez_datasets/C10_10Features",
+      "62050693": "Rodriguez_datasets/C10_10Features",
+      "62050696": "Rodriguez_datasets/C50_200Features",
+      "62050708": "Rodriguez_datasets/C10_10Features",
+      "62050714": "Rodriguez_datasets/C10_10Features",
+      "62050705": "Rodriguez_datasets/C10_10Features",
+      "62050702": "Rodriguez_datasets/C50_200Features",
+      "62050717": "Rodriguez_datasets/C50_200Features",
+      "62050711": "Rodriguez_datasets/C10_10Features",
+      "62050723": "Rodriguez_datasets/C10_10Features",
+      "62050720": "Rodriguez_datasets/C10_10Features",
+      "62050726": "Rodriguez_datasets/C50_200Features",
+      "62050729": "Rodriguez_datasets/C50_200Features",
+      "62050732": "Rodriguez_datasets/C50_200Features",
+      "62050735": "Rodriguez_datasets/C50_200Features"
+    },
+    "files": [
+      {
+        "id": 62050051,
+        "name": "C50F50N2Ne100A1.24551188991R0.txt",
+        "size": 2145131,
+        "download_url": "https://ndownloader.figshare.com/files/62050051",
+        "supplied_md5": "d0c46cdc046e12012b1c33e3dc860148"
+      },
+      {
+        "id": 62050039,
+        "name": "C50F50N2Ne100A1.24551188991R1.txt",
+        "size": 2145003,
+        "download_url": "https://ndownloader.figshare.com/files/62050039",
+        "supplied_md5": "37fc0190e08674a9aaf7e5b2d27d2cbd"
+      },
+      {
+        "id": 62050045,
+        "name": "C50F50N2Ne100A1.24551188991R2.txt",
+        "size": 2142676,
+        "download_url": "https://ndownloader.figshare.com/files/62050045",
+        "supplied_md5": "1e93bc6fb5d96413b701b8a01091d32a"
+      },
+      {
+        "id": 62050069,
+        "name": "C50F50N2Ne100A1.24551188991R3.txt",
+        "size": 2142303,
+        "download_url": "https://ndownloader.figshare.com/files/62050069",
+        "supplied_md5": "5fd690b1a93e18c1cbc613ffc4108553"
+      },
+      {
+        "id": 62050063,
+        "name": "C50F50N2Ne100A1.24551188991R4.txt",
+        "size": 2145114,
+        "download_url": "https://ndownloader.figshare.com/files/62050063",
+        "supplied_md5": "b0642462618044902c95849f7a0c2cc3"
+      },
+      {
+        "id": 62050075,
+        "name": "C50F50N2Ne100A1.24551188991R5.txt",
+        "size": 2143011,
+        "download_url": "https://ndownloader.figshare.com/files/62050075",
+        "supplied_md5": "fb45270dd99822da24a839b9b405f890"
+      },
+      {
+        "id": 62050066,
+        "name": "C50F50N2Ne100A1.24551188991R6.txt",
+        "size": 2143554,
+        "download_url": "https://ndownloader.figshare.com/files/62050066",
+        "supplied_md5": "c527d0fe195109c6e32254eff2427b49"
+      },
+      {
+        "id": 62050105,
+        "name": "C50F50N2Ne100A1.24551188991R7.txt",
+        "size": 2141235,
+        "download_url": "https://ndownloader.figshare.com/files/62050105",
+        "supplied_md5": "3b48ba49d5e91037b3069a0670319a37"
+      },
+      {
+        "id": 62050111,
+        "name": "C50F50N2Ne100A1.24551188991R8.txt",
+        "size": 2141476,
+        "download_url": "https://ndownloader.figshare.com/files/62050111",
+        "supplied_md5": "d9c055f530828f10982f3dd81ed318a5"
+      },
+      {
+        "id": 62050120,
+        "name": "C50F50N2Ne100A1.24551188991R9.txt",
+        "size": 2143377,
+        "download_url": "https://ndownloader.figshare.com/files/62050120",
+        "supplied_md5": "a95bc561baf3c550fc48317f9c332538"
+      },
+      {
+        "id": 62049937,
+        "name": "C50F50N2Ne50A1.29677321133R0.txt",
+        "size": 1071631,
+        "download_url": "https://ndownloader.figshare.com/files/62049937",
+        "supplied_md5": "85561415cf1f6a9f66354ab81218eb4e"
+      },
+      {
+        "id": 62049940,
+        "name": "C50F50N2Ne50A1.29677321133R1.txt",
+        "size": 1072059,
+        "download_url": "https://ndownloader.figshare.com/files/62049940",
+        "supplied_md5": "3df6a5897756a5304880ec70fd5c876d"
+      },
+      {
+        "id": 62049964,
+        "name": "C50F50N2Ne50A1.29677321133R2.txt",
+        "size": 1071546,
+        "download_url": "https://ndownloader.figshare.com/files/62049964",
+        "supplied_md5": "bc3ff050e927c702dcf1a6a56dcee800"
+      },
+      {
+        "id": 62049946,
+        "name": "C50F50N2Ne50A1.29677321133R3.txt",
+        "size": 1073268,
+        "download_url": "https://ndownloader.figshare.com/files/62049946",
+        "supplied_md5": "9ab7a8e7498305ce3c6056ab5604752a"
+      },
+      {
+        "id": 62049949,
+        "name": "C50F50N2Ne50A1.29677321133R4.txt",
+        "size": 1071609,
+        "download_url": "https://ndownloader.figshare.com/files/62049949",
+        "supplied_md5": "b2a99c691d604ce6a43e457d3570f7f1"
+      },
+      {
+        "id": 62049955,
+        "name": "C50F50N2Ne50A1.29677321133R5.txt",
+        "size": 1072472,
+        "download_url": "https://ndownloader.figshare.com/files/62049955",
+        "supplied_md5": "1fab140a0bc1dd78ae054e87b9c89855"
+      },
+      {
+        "id": 62049988,
+        "name": "C50F50N2Ne50A1.29677321133R6.txt",
+        "size": 1072237,
+        "download_url": "https://ndownloader.figshare.com/files/62049988",
+        "supplied_md5": "4aaf667df86b3453dbe813d7d0f60c24"
+      },
+      {
+        "id": 62049982,
+        "name": "C50F50N2Ne50A1.29677321133R7.txt",
+        "size": 1071110,
+        "download_url": "https://ndownloader.figshare.com/files/62049982",
+        "supplied_md5": "8749b6fb945adf86afb7b29a229ff7bd"
+      },
+      {
+        "id": 62049952,
+        "name": "C50F50N2Ne50A1.29677321133R8.txt",
+        "size": 1072174,
+        "download_url": "https://ndownloader.figshare.com/files/62049952",
+        "supplied_md5": "971dc6524bf2e0ae6a32195800275701"
+      },
+      {
+        "id": 62049943,
+        "name": "C50F50N2Ne50A1.29677321133R9.txt",
+        "size": 1072170,
+        "download_url": "https://ndownloader.figshare.com/files/62049943",
+        "supplied_md5": "29ef07f3360f1718726b057f53e92f6c"
+      },
+      {
+        "id": 62049958,
+        "name": "C50F50N2Ne5A1.79816555412R0.txt",
+        "size": 107248,
+        "download_url": "https://ndownloader.figshare.com/files/62049958",
+        "supplied_md5": "ec02369a6eea4ef470f1e16c602ed61e"
+      },
+      {
+        "id": 62050093,
+        "name": "C50F50N2Ne5A1.79816555412R1.txt",
+        "size": 107155,
+        "download_url": "https://ndownloader.figshare.com/files/62050093",
+        "supplied_md5": "8d595f07b4bf3f37ee45498ad6c0f9d0"
+      },
+      {
+        "id": 62050078,
+        "name": "C50F50N2Ne5A1.79816555412R2.txt",
+        "size": 107252,
+        "download_url": "https://ndownloader.figshare.com/files/62050078",
+        "supplied_md5": "0bdd4dae8f65fe846415cd270b6af5fe"
+      },
+      {
+        "id": 62050099,
+        "name": "C50F50N2Ne5A1.79816555412R3.txt",
+        "size": 107131,
+        "download_url": "https://ndownloader.figshare.com/files/62050099",
+        "supplied_md5": "81fb42aa5794ce127472748685508645"
+      },
+      {
+        "id": 62049979,
+        "name": "C50F50N2Ne5A1.79816555412R4.txt",
+        "size": 107294,
+        "download_url": "https://ndownloader.figshare.com/files/62049979",
+        "supplied_md5": "38b93fd7a33adf548549b37a5a9f7377"
+      },
+      {
+        "id": 62049976,
+        "name": "C50F50N2Ne5A1.79816555412R5.txt",
+        "size": 107144,
+        "download_url": "https://ndownloader.figshare.com/files/62049976",
+        "supplied_md5": "7b191060996db6f856acd0ce9f9371a9"
+      },
+      {
+        "id": 62049961,
+        "name": "C50F50N2Ne5A1.79816555412R6.txt",
+        "size": 107136,
+        "download_url": "https://ndownloader.figshare.com/files/62049961",
+        "supplied_md5": "d2f65f5a665cfa34e1d7bfc84fbf09da"
+      },
+      {
+        "id": 62049973,
+        "name": "C50F50N2Ne5A1.79816555412R7.txt",
+        "size": 107024,
+        "download_url": "https://ndownloader.figshare.com/files/62049973",
+        "supplied_md5": "71bb98d9857da194c4404dcde9d99671"
+      },
+      {
+        "id": 62050102,
+        "name": "C50F50N2Ne5A1.79816555412R8.txt",
+        "size": 107331,
+        "download_url": "https://ndownloader.figshare.com/files/62050102",
+        "supplied_md5": "ac143429594164464aee920ce9802e74"
+      },
+      {
+        "id": 62049970,
+        "name": "C50F50N2Ne5A1.79816555412R9.txt",
+        "size": 107117,
+        "download_url": "https://ndownloader.figshare.com/files/62049970",
+        "supplied_md5": "10adebf812978071e103f0175c6c69e6"
+      },
+      {
+        "id": 62050681,
+        "name": "C50F200N2Ne100A1.08093981889R0.arff",
+        "size": 9525110,
+        "download_url": "https://ndownloader.figshare.com/files/62050681",
+        "supplied_md5": "88a79ce19c61a877b6eb342a55c7ff75"
+      },
+      {
+        "id": 62050672,
+        "name": "C50F200N2Ne100A1.08093981889R1.arff",
+        "size": 9520473,
+        "download_url": "https://ndownloader.figshare.com/files/62050672",
+        "supplied_md5": "38f1b127a616564e423007d9ffb00075"
+      },
+      {
+        "id": 62050687,
+        "name": "C50F200N2Ne100A1.08093981889R2.arff",
+        "size": 9530543,
+        "download_url": "https://ndownloader.figshare.com/files/62050687",
+        "supplied_md5": "556101c8f386efd14a154a164c7a6d48"
+      },
+      {
+        "id": 62050702,
+        "name": "C50F200N2Ne100A1.08093981889R3.arff",
+        "size": 9524793,
+        "download_url": "https://ndownloader.figshare.com/files/62050702",
+        "supplied_md5": "65fa345db637719c55a3f9ba48d30d08"
+      },
+      {
+        "id": 62050696,
+        "name": "C50F200N2Ne100A1.08093981889R4.arff",
+        "size": 9520313,
+        "download_url": "https://ndownloader.figshare.com/files/62050696",
+        "supplied_md5": "3f7706a70b4b00061a81d49d3ec12ee9"
+      },
+      {
+        "id": 62050717,
+        "name": "C50F200N2Ne100A1.08093981889R5.arff",
+        "size": 9522160,
+        "download_url": "https://ndownloader.figshare.com/files/62050717",
+        "supplied_md5": "6c0d0a0e00d764630c8294c0ea3a4981"
+      },
+      {
+        "id": 62050729,
+        "name": "C50F200N2Ne100A1.08093981889R6.arff",
+        "size": 9528393,
+        "download_url": "https://ndownloader.figshare.com/files/62050729",
+        "supplied_md5": "9787b912763065ea2f72faccffd09058"
+      },
+      {
+        "id": 62050726,
+        "name": "C50F200N2Ne100A1.08093981889R7.arff",
+        "size": 9523697,
+        "download_url": "https://ndownloader.figshare.com/files/62050726",
+        "supplied_md5": "c99893757649cfb45ed81f30695b0f73"
+      },
+      {
+        "id": 62050735,
+        "name": "C50F200N2Ne100A1.08093981889R8.arff",
+        "size": 9523463,
+        "download_url": "https://ndownloader.figshare.com/files/62050735",
+        "supplied_md5": "dffed8c646e14392a95e5257241de2b5"
+      },
+      {
+        "id": 62050732,
+        "name": "C50F200N2Ne100A1.08093981889R9.arff",
+        "size": 9521501,
+        "download_url": "https://ndownloader.figshare.com/files/62050732",
+        "supplied_md5": "4c39a9a95805cbd2ece470ea9e05e9ad"
+      },
+      {
+        "id": 62050171,
+        "name": "C50F200N2Ne50A1.19992287348R0.arff",
+        "size": 4764265,
+        "download_url": "https://ndownloader.figshare.com/files/62050171",
+        "supplied_md5": "183a4f5f77699744c87e4f5379b99973"
+      },
+      {
+        "id": 62050186,
+        "name": "C50F200N2Ne50A1.19992287348R1.arff",
+        "size": 4765714,
+        "download_url": "https://ndownloader.figshare.com/files/62050186",
+        "supplied_md5": "05fb94694e99605cbf4ffb47c3085513"
+      },
+      {
+        "id": 62050297,
+        "name": "C50F200N2Ne50A1.19992287348R2.arff",
+        "size": 4762813,
+        "download_url": "https://ndownloader.figshare.com/files/62050297",
+        "supplied_md5": "6194ed25bb2945ef3380ce8e9ed03daa"
+      },
+      {
+        "id": 62050192,
+        "name": "C50F200N2Ne50A1.19992287348R3.arff",
+        "size": 4766409,
+        "download_url": "https://ndownloader.figshare.com/files/62050192",
+        "supplied_md5": "64431de4c90f17de3c8e3288eb6c892c"
+      },
+      {
+        "id": 62050183,
+        "name": "C50F200N2Ne50A1.19992287348R4.arff",
+        "size": 4764211,
+        "download_url": "https://ndownloader.figshare.com/files/62050183",
+        "supplied_md5": "9d0fb5c54d3ae1830a2cb2c873bce256"
+      },
+      {
+        "id": 62050189,
+        "name": "C50F200N2Ne50A1.19992287348R5.arff",
+        "size": 4764268,
+        "download_url": "https://ndownloader.figshare.com/files/62050189",
+        "supplied_md5": "25c48ea08bacaa6756143f5076af3ff6"
+      },
+      {
+        "id": 62050204,
+        "name": "C50F200N2Ne50A1.19992287348R6.arff",
+        "size": 4764412,
+        "download_url": "https://ndownloader.figshare.com/files/62050204",
+        "supplied_md5": "2158c23681f26b6e2b5a2915ac559ac3"
+      },
+      {
+        "id": 62050198,
+        "name": "C50F200N2Ne50A1.19992287348R7.arff",
+        "size": 4765028,
+        "download_url": "https://ndownloader.figshare.com/files/62050198",
+        "supplied_md5": "8dd337f0e2210b5a8ebbcf3ace69a910"
+      },
+      {
+        "id": 62050213,
+        "name": "C50F200N2Ne50A1.19992287348R8.arff",
+        "size": 4765113,
+        "download_url": "https://ndownloader.figshare.com/files/62050213",
+        "supplied_md5": "cdc8284c8f169b34023ba87dd227278f"
+      },
+      {
+        "id": 62050267,
+        "name": "C50F200N2Ne50A1.19992287348R9.arff",
+        "size": 4765951,
+        "download_url": "https://ndownloader.figshare.com/files/62050267",
+        "supplied_md5": "315148cfc6112f491ca1a806a05e8202"
+      },
+      {
+        "id": 62049967,
+        "name": "C50F200N2Ne5A1.78382139614R0.arff",
+        "size": 482301,
+        "download_url": "https://ndownloader.figshare.com/files/62049967",
+        "supplied_md5": "595c8752b2324879f115c7619a860ce7"
+      },
+      {
+        "id": 62049994,
+        "name": "C50F200N2Ne5A1.78382139614R1.arff",
+        "size": 481636,
+        "download_url": "https://ndownloader.figshare.com/files/62049994",
+        "supplied_md5": "37555ed24dd1fd83e9312e00562556ab"
+      },
+      {
+        "id": 62050000,
+        "name": "C50F200N2Ne5A1.78382139614R2.arff",
+        "size": 481870,
+        "download_url": "https://ndownloader.figshare.com/files/62050000",
+        "supplied_md5": "2b7c3ee76d251fdd37ff06b2de2afbbf"
+      },
+      {
+        "id": 62050084,
+        "name": "C50F200N2Ne5A1.78382139614R3.arff",
+        "size": 481811,
+        "download_url": "https://ndownloader.figshare.com/files/62050084",
+        "supplied_md5": "6b3aad6d0a932fde95904c320f41fc1f"
+      },
+      {
+        "id": 62049991,
+        "name": "C50F200N2Ne5A1.78382139614R4.arff",
+        "size": 481806,
+        "download_url": "https://ndownloader.figshare.com/files/62049991",
+        "supplied_md5": "d9b1724b108e2b6b0d05f815a8813fe6"
+      },
+      {
+        "id": 62049985,
+        "name": "C50F200N2Ne5A1.78382139614R5.arff",
+        "size": 481921,
+        "download_url": "https://ndownloader.figshare.com/files/62049985",
+        "supplied_md5": "e723eac23e85cd786324871c119f2b30"
+      },
+      {
+        "id": 62050003,
+        "name": "C50F200N2Ne5A1.78382139614R6.arff",
+        "size": 481749,
+        "download_url": "https://ndownloader.figshare.com/files/62050003",
+        "supplied_md5": "03df0bf433c7ec7a45bcfc550445e336"
+      },
+      {
+        "id": 62049997,
+        "name": "C50F200N2Ne5A1.78382139614R7.arff",
+        "size": 482071,
+        "download_url": "https://ndownloader.figshare.com/files/62049997",
+        "supplied_md5": "68342f97f4e88d0babb18a9494549196"
+      },
+      {
+        "id": 62050081,
+        "name": "C50F200N2Ne5A1.78382139614R8.arff",
+        "size": 481739,
+        "download_url": "https://ndownloader.figshare.com/files/62050081",
+        "supplied_md5": "36e4fa0a546b0c67e3ff10ff04ac7cd2"
+      },
+      {
+        "id": 62050006,
+        "name": "C50F200N2Ne5A1.78382139614R9.arff",
+        "size": 482196,
+        "download_url": "https://ndownloader.figshare.com/files/62050006",
+        "supplied_md5": "baad5357bd7b6dbddfdf8cbe417e4b85"
+      },
+      {
+        "id": 62050015,
+        "name": "C50F10N2Ne100A2.23085807163R0.txt",
+        "size": 444570,
+        "download_url": "https://ndownloader.figshare.com/files/62050015",
+        "supplied_md5": "2ee10b5e8f2aa6f118c02dce5d9e1992"
+      },
+      {
+        "id": 62050018,
+        "name": "C50F10N2Ne100A2.23085807163R1.txt",
+        "size": 444115,
+        "download_url": "https://ndownloader.figshare.com/files/62050018",
+        "supplied_md5": "57d6d5b8d483a9af18fb65144f0c41bc"
+      },
+      {
+        "id": 62050009,
+        "name": "C50F10N2Ne100A2.23085807163R2.txt",
+        "size": 444543,
+        "download_url": "https://ndownloader.figshare.com/files/62050009",
+        "supplied_md5": "9bca42256e479cc949805a765bc62bfc"
+      },
+      {
+        "id": 62050096,
+        "name": "C50F10N2Ne100A2.23085807163R3.txt",
+        "size": 443625,
+        "download_url": "https://ndownloader.figshare.com/files/62050096",
+        "supplied_md5": "af61ddcc803cd500943a707121771fa9"
+      },
+      {
+        "id": 62050012,
+        "name": "C50F10N2Ne100A2.23085807163R4.txt",
+        "size": 445281,
+        "download_url": "https://ndownloader.figshare.com/files/62050012",
+        "supplied_md5": "4868ce0a680d95fcef0bde97f36f7e4f"
+      },
+      {
+        "id": 62050087,
+        "name": "C50F10N2Ne100A2.23085807163R5.txt",
+        "size": 443406,
+        "download_url": "https://ndownloader.figshare.com/files/62050087",
+        "supplied_md5": "084f03891b9ceb1b74d95467f139fd67"
+      },
+      {
+        "id": 62050024,
+        "name": "C50F10N2Ne100A2.23085807163R6.txt",
+        "size": 444631,
+        "download_url": "https://ndownloader.figshare.com/files/62050024",
+        "supplied_md5": "acea7596faca62d9b6326b1bb32d166f"
+      },
+      {
+        "id": 62050021,
+        "name": "C50F10N2Ne100A2.23085807163R7.txt",
+        "size": 444034,
+        "download_url": "https://ndownloader.figshare.com/files/62050021",
+        "supplied_md5": "50bdcabf8e82c0d535a79bb7763df760"
+      },
+      {
+        "id": 62050027,
+        "name": "C50F10N2Ne100A2.23085807163R8.txt",
+        "size": 444123,
+        "download_url": "https://ndownloader.figshare.com/files/62050027",
+        "supplied_md5": "480eb725e5fcf016796098370f355e71"
+      },
+      {
+        "id": 62050030,
+        "name": "C50F10N2Ne100A2.23085807163R9.txt",
+        "size": 445066,
+        "download_url": "https://ndownloader.figshare.com/files/62050030",
+        "supplied_md5": "c3d76cfe62cb063f2c4cde52798430f0"
+      },
+      {
+        "id": 62050033,
+        "name": "C50F10N2Ne50A2.3011377436R0.txt",
+        "size": 222205,
+        "download_url": "https://ndownloader.figshare.com/files/62050033",
+        "supplied_md5": "1869f08475a8803054fc4e3daaec2f02"
+      },
+      {
+        "id": 62050036,
+        "name": "C50F10N2Ne50A2.3011377436R1.txt",
+        "size": 222391,
+        "download_url": "https://ndownloader.figshare.com/files/62050036",
+        "supplied_md5": "f590a52aacbeac01fde265082e5c5c93"
+      },
+      {
+        "id": 62050048,
+        "name": "C50F10N2Ne50A2.3011377436R2.txt",
+        "size": 221813,
+        "download_url": "https://ndownloader.figshare.com/files/62050048",
+        "supplied_md5": "432c901c2975efa7a182c9a938e6ab04"
+      },
+      {
+        "id": 62050042,
+        "name": "C50F10N2Ne50A2.3011377436R3.txt",
+        "size": 221563,
+        "download_url": "https://ndownloader.figshare.com/files/62050042",
+        "supplied_md5": "057bb66175b42e0f0fbfdefad85806d8"
+      },
+      {
+        "id": 62050090,
+        "name": "C50F10N2Ne50A2.3011377436R4.txt",
+        "size": 222316,
+        "download_url": "https://ndownloader.figshare.com/files/62050090",
+        "supplied_md5": "6558aaf8a51f47f830a04f28fa42848a"
+      },
+      {
+        "id": 62050060,
+        "name": "C50F10N2Ne50A2.3011377436R5.txt",
+        "size": 221726,
+        "download_url": "https://ndownloader.figshare.com/files/62050060",
+        "supplied_md5": "0c997341a7111b77aa8c09b53b647b4d"
+      },
+      {
+        "id": 62050057,
+        "name": "C50F10N2Ne50A2.3011377436R6.txt",
+        "size": 221815,
+        "download_url": "https://ndownloader.figshare.com/files/62050057",
+        "supplied_md5": "a7200a3c85618ff6e748738958acf2f1"
+      },
+      {
+        "id": 62050072,
+        "name": "C50F10N2Ne50A2.3011377436R7.txt",
+        "size": 221965,
+        "download_url": "https://ndownloader.figshare.com/files/62050072",
+        "supplied_md5": "2bb9ea818bf08d9194d71aa92bf228d7"
+      },
+      {
+        "id": 62050054,
+        "name": "C50F10N2Ne50A2.3011377436R8.txt",
+        "size": 222106,
+        "download_url": "https://ndownloader.figshare.com/files/62050054",
+        "supplied_md5": "d44252c5b68305e6437efe47c866dd83"
+      },
+      {
+        "id": 62050114,
+        "name": "C50F10N2Ne50A2.3011377436R9.txt",
+        "size": 221726,
+        "download_url": "https://ndownloader.figshare.com/files/62050114",
+        "supplied_md5": "4d55b38ddae108f51d9dc6c01563337c"
+      },
+      {
+        "id": 62050108,
+        "name": "C50F10N2Ne5A3.07330196952R1.txt",
+        "size": 22228,
+        "download_url": "https://ndownloader.figshare.com/files/62050108",
+        "supplied_md5": "737f7e1e9864a4b2f7f7c6b02443a29e"
+      },
+      {
+        "id": 62050117,
+        "name": "C50F10N2Ne5A3.07330196952R2.txt",
+        "size": 22300,
+        "download_url": "https://ndownloader.figshare.com/files/62050117",
+        "supplied_md5": "ade9faa62ec5f32931d1a4c0be481f11"
+      },
+      {
+        "id": 62050132,
+        "name": "C50F10N2Ne5A3.07330196952R3.txt",
+        "size": 22236,
+        "download_url": "https://ndownloader.figshare.com/files/62050132",
+        "supplied_md5": "7efddb1282f101b9b1ff59f128438238"
+      },
+      {
+        "id": 62050126,
+        "name": "C50F10N2Ne5A3.07330196952R4.txt",
+        "size": 22224,
+        "download_url": "https://ndownloader.figshare.com/files/62050126",
+        "supplied_md5": "210cd3efbd34ec379316c4e7de2395dd"
+      },
+      {
+        "id": 62050123,
+        "name": "C50F10N2Ne5A3.07330196952R5.txt",
+        "size": 22220,
+        "download_url": "https://ndownloader.figshare.com/files/62050123",
+        "supplied_md5": "c3d8acefd7166461d84ef6a1994f8be8"
+      },
+      {
+        "id": 62050138,
+        "name": "C50F10N2Ne5A3.07330196952R6.txt",
+        "size": 22164,
+        "download_url": "https://ndownloader.figshare.com/files/62050138",
+        "supplied_md5": "6e45d365aa9bb829e8111385782e0dde"
+      },
+      {
+        "id": 62050141,
+        "name": "C50F10N2Ne5A3.07330196952R7.txt",
+        "size": 22203,
+        "download_url": "https://ndownloader.figshare.com/files/62050141",
+        "supplied_md5": "719899a22a2b126260984cfded5e2dd2"
+      },
+      {
+        "id": 62050135,
+        "name": "C50F10N2Ne5A3.07330196952R8.txt",
+        "size": 22206,
+        "download_url": "https://ndownloader.figshare.com/files/62050135",
+        "supplied_md5": "4247bbce72b5f3ebd1ebc4b5fd592c5a"
+      },
+      {
+        "id": 62050150,
+        "name": "C50F10N2Ne5A3.07330196952R9.txt",
+        "size": 22145,
+        "download_url": "https://ndownloader.figshare.com/files/62050150",
+        "supplied_md5": "303718d864bd2ed1d74ac1a648967b59"
+      },
+      {
+        "id": 62050159,
+        "name": "C2F50N2Ne100A0.93035144234R0.txt",
+        "size": 85162,
+        "download_url": "https://ndownloader.figshare.com/files/62050159",
+        "supplied_md5": "2a66584723cbc348f9db477220edafa6"
+      },
+      {
+        "id": 62050129,
+        "name": "C2F50N2Ne100A0.93035144234R1.txt",
+        "size": 85605,
+        "download_url": "https://ndownloader.figshare.com/files/62050129",
+        "supplied_md5": "b7a31f22ae3ba240438e51cdbbbba0c6"
+      },
+      {
+        "id": 62050147,
+        "name": "C2F50N2Ne100A0.93035144234R2.txt",
+        "size": 85420,
+        "download_url": "https://ndownloader.figshare.com/files/62050147",
+        "supplied_md5": "c3c84a75148e92c8d0ea29968270746c"
+      },
+      {
+        "id": 62050162,
+        "name": "C2F50N2Ne100A0.93035144234R3.txt",
+        "size": 85980,
+        "download_url": "https://ndownloader.figshare.com/files/62050162",
+        "supplied_md5": "23d31c4d2293549f20db9828a293c210"
+      },
+      {
+        "id": 62050156,
+        "name": "C2F50N2Ne100A0.93035144234R4.txt",
+        "size": 85516,
+        "download_url": "https://ndownloader.figshare.com/files/62050156",
+        "supplied_md5": "b740dd3e3354f70e2b7e4de2b8b50a19"
+      },
+      {
+        "id": 62050153,
+        "name": "C2F50N2Ne100A0.93035144234R5.txt",
+        "size": 85632,
+        "download_url": "https://ndownloader.figshare.com/files/62050153",
+        "supplied_md5": "ea139bbf6fbc5934a515c7843794fb92"
+      },
+      {
+        "id": 62050144,
+        "name": "C2F50N2Ne100A0.93035144234R6.txt",
+        "size": 85433,
+        "download_url": "https://ndownloader.figshare.com/files/62050144",
+        "supplied_md5": "d3afc9ec373490080c5c078dffaec1c6"
+      },
+      {
+        "id": 62050291,
+        "name": "C2F50N2Ne100A0.93035144234R7.txt",
+        "size": 85097,
+        "download_url": "https://ndownloader.figshare.com/files/62050291",
+        "supplied_md5": "fc441eae11ea5917f65c0e45ed117b26"
+      },
+      {
+        "id": 62050168,
+        "name": "C2F50N2Ne100A0.93035144234R8.txt",
+        "size": 85178,
+        "download_url": "https://ndownloader.figshare.com/files/62050168",
+        "supplied_md5": "3c5284f6e0261171572f4ebc65038eb3"
+      },
+      {
+        "id": 62050165,
+        "name": "C2F50N2Ne100A0.93035144234R9.txt",
+        "size": 85533,
+        "download_url": "https://ndownloader.figshare.com/files/62050165",
+        "supplied_md5": "a5f3943bddea086ea35c7f93d47d7612"
+      },
+      {
+        "id": 62050174,
+        "name": "C2F50N2Ne50A0.928565544565R0.txt",
+        "size": 42746,
+        "download_url": "https://ndownloader.figshare.com/files/62050174",
+        "supplied_md5": "297f41c2bc65faaee2501e196c6b2e39"
+      },
+      {
+        "id": 62050177,
+        "name": "C2F50N2Ne50A0.928565544565R1.txt",
+        "size": 42689,
+        "download_url": "https://ndownloader.figshare.com/files/62050177",
+        "supplied_md5": "54ac4137bf4b1eda8f3dc23d9c4e5877"
+      },
+      {
+        "id": 62050180,
+        "name": "C2F50N2Ne50A0.928565544565R2.txt",
+        "size": 42989,
+        "download_url": "https://ndownloader.figshare.com/files/62050180",
+        "supplied_md5": "7de26d2acc9213d54db65d54ffbd96c5"
+      },
+      {
+        "id": 62050201,
+        "name": "C2F50N2Ne50A0.928565544565R3.txt",
+        "size": 42602,
+        "download_url": "https://ndownloader.figshare.com/files/62050201",
+        "supplied_md5": "276c89b19ca5fbbc217a7ab60d51e981"
+      },
+      {
+        "id": 62050288,
+        "name": "C2F50N2Ne50A0.928565544565R4.txt",
+        "size": 42577,
+        "download_url": "https://ndownloader.figshare.com/files/62050288",
+        "supplied_md5": "02af19755570525441809a1b5813e96b"
+      },
+      {
+        "id": 62050318,
+        "name": "C2F50N2Ne50A0.928565544565R5.txt",
+        "size": 42839,
+        "download_url": "https://ndownloader.figshare.com/files/62050318",
+        "supplied_md5": "cad51813d4f47b65062d476e808ba200"
+      },
+      {
+        "id": 62050219,
+        "name": "C2F50N2Ne50A0.928565544565R6.txt",
+        "size": 42612,
+        "download_url": "https://ndownloader.figshare.com/files/62050219",
+        "supplied_md5": "a75f04f12a8235a1b25bc565f23849d8"
+      },
+      {
+        "id": 62050195,
+        "name": "C2F50N2Ne50A0.928565544565R7.txt",
+        "size": 42841,
+        "download_url": "https://ndownloader.figshare.com/files/62050195",
+        "supplied_md5": "823d66c6601953eadbba6399c304529c"
+      },
+      {
+        "id": 62050216,
+        "name": "C2F50N2Ne50A0.928565544565R8.txt",
+        "size": 42805,
+        "download_url": "https://ndownloader.figshare.com/files/62050216",
+        "supplied_md5": "1cea87bbf816e79d465a75d861c86e06"
+      },
+      {
+        "id": 62050207,
+        "name": "C2F50N2Ne50A0.928565544565R9.txt",
+        "size": 42942,
+        "download_url": "https://ndownloader.figshare.com/files/62050207",
+        "supplied_md5": "33787ef557885990c4d05f752df43463"
+      },
+      {
+        "id": 62050210,
+        "name": "C2F50N2Ne5A1.27469381293R0.txt",
+        "size": 4267,
+        "download_url": "https://ndownloader.figshare.com/files/62050210",
+        "supplied_md5": "dc1233112b7b1f8d8affd426ae3daf25"
+      },
+      {
+        "id": 62050222,
+        "name": "C2F50N2Ne5A1.27469381293R1.txt",
+        "size": 4241,
+        "download_url": "https://ndownloader.figshare.com/files/62050222",
+        "supplied_md5": "e8bdb5b91bfd305f200b94fdb9eb4526"
+      },
+      {
+        "id": 62050294,
+        "name": "C2F50N2Ne5A1.27469381293R2.txt",
+        "size": 4292,
+        "download_url": "https://ndownloader.figshare.com/files/62050294",
+        "supplied_md5": "7badec093a8607289b93e15ad9c52829"
+      },
+      {
+        "id": 62050228,
+        "name": "C2F50N2Ne5A1.27469381293R3.txt",
+        "size": 4285,
+        "download_url": "https://ndownloader.figshare.com/files/62050228",
+        "supplied_md5": "ff59acd3e5371cf1245e7847da3a9f92"
+      },
+      {
+        "id": 62050261,
+        "name": "C2F50N2Ne5A1.27469381293R4.txt",
+        "size": 4298,
+        "download_url": "https://ndownloader.figshare.com/files/62050261",
+        "supplied_md5": "9ddac9f9d95d8d16f642620ddf6ca6aa"
+      },
+      {
+        "id": 62050225,
+        "name": "C2F50N2Ne5A1.27469381293R5.txt",
+        "size": 4275,
+        "download_url": "https://ndownloader.figshare.com/files/62050225",
+        "supplied_md5": "63f5fdebd9c8a3c9dc5332d60aa210cd"
+      },
+      {
+        "id": 62050270,
+        "name": "C2F50N2Ne5A1.27469381293R6.txt",
+        "size": 4275,
+        "download_url": "https://ndownloader.figshare.com/files/62050270",
+        "supplied_md5": "cf3fc7e80f2e492781f4bdf8c190646d"
+      },
+      {
+        "id": 62050237,
+        "name": "C2F50N2Ne5A1.27469381293R7.txt",
+        "size": 4299,
+        "download_url": "https://ndownloader.figshare.com/files/62050237",
+        "supplied_md5": "2419d3a7bf984a1d80e521cc15054fa9"
+      },
+      {
+        "id": 62050231,
+        "name": "C2F50N2Ne5A1.27469381293R8.txt",
+        "size": 4273,
+        "download_url": "https://ndownloader.figshare.com/files/62050231",
+        "supplied_md5": "1a339f1b508c5ebff5524d625e991a2c"
+      },
+      {
+        "id": 62050264,
+        "name": "C2F50N2Ne5A1.27469381293R9.txt",
+        "size": 4297,
+        "download_url": "https://ndownloader.figshare.com/files/62050264",
+        "supplied_md5": "977a8b7a95d99ca8f7d33eafb4fed95f"
+      },
+      {
+        "id": 62050234,
+        "name": "C2F200N2Ne100A0.843361846279R0.arff",
+        "size": 387258,
+        "download_url": "https://ndownloader.figshare.com/files/62050234",
+        "supplied_md5": "e525f5965a30b6d17d01fe6835c5d5a3"
+      },
+      {
+        "id": 62050240,
+        "name": "C2F200N2Ne100A0.843361846279R1.arff",
+        "size": 386084,
+        "download_url": "https://ndownloader.figshare.com/files/62050240",
+        "supplied_md5": "12a9b5ff7911daca62caad14e163cc05"
+      },
+      {
+        "id": 62050285,
+        "name": "C2F200N2Ne100A0.843361846279R2.arff",
+        "size": 387428,
+        "download_url": "https://ndownloader.figshare.com/files/62050285",
+        "supplied_md5": "18121b2cf6770a98718c3bf0adeadd68"
+      },
+      {
+        "id": 62050243,
+        "name": "C2F200N2Ne100A0.843361846279R3.arff",
+        "size": 387029,
+        "download_url": "https://ndownloader.figshare.com/files/62050243",
+        "supplied_md5": "67697ba14d3304c00a9214d3edba8aef"
+      },
+      {
+        "id": 62050252,
+        "name": "C2F200N2Ne100A0.843361846279R4.arff",
+        "size": 386847,
+        "download_url": "https://ndownloader.figshare.com/files/62050252",
+        "supplied_md5": "bcaa0a9cf7dbaed3531f3a87cc80dc41"
+      },
+      {
+        "id": 62050246,
+        "name": "C2F200N2Ne100A0.843361846279R5.arff",
+        "size": 386263,
+        "download_url": "https://ndownloader.figshare.com/files/62050246",
+        "supplied_md5": "f6c01ed955835f4b1e87a0fa053b14af"
+      },
+      {
+        "id": 62050249,
+        "name": "C2F200N2Ne100A0.843361846279R6.arff",
+        "size": 386562,
+        "download_url": "https://ndownloader.figshare.com/files/62050249",
+        "supplied_md5": "9c94222f21546fda2e576809d9ad8ed4"
+      },
+      {
+        "id": 62050306,
+        "name": "C2F200N2Ne100A0.843361846279R7.arff",
+        "size": 387129,
+        "download_url": "https://ndownloader.figshare.com/files/62050306",
+        "supplied_md5": "eff924ecb9109fe54d047cd9637d3f07"
+      },
+      {
+        "id": 62050258,
+        "name": "C2F200N2Ne100A0.843361846279R8.arff",
+        "size": 386397,
+        "download_url": "https://ndownloader.figshare.com/files/62050258",
+        "supplied_md5": "41b5fa3384686234fb2c55032433e117"
+      },
+      {
+        "id": 62050300,
+        "name": "C2F200N2Ne100A0.843361846279R9.arff",
+        "size": 386982,
+        "download_url": "https://ndownloader.figshare.com/files/62050300",
+        "supplied_md5": "a3a12f9dfb02cb5d50b1ecc9e3a0163a"
+      },
+      {
+        "id": 62050255,
+        "name": "C2F200N2Ne50A0.868795011768R0.arff",
+        "size": 196034,
+        "download_url": "https://ndownloader.figshare.com/files/62050255",
+        "supplied_md5": "34f21fe9f891bdb4211f2725420212ba"
+      },
+      {
+        "id": 62050312,
+        "name": "C2F200N2Ne50A0.868795011768R1.arff",
+        "size": 196324,
+        "download_url": "https://ndownloader.figshare.com/files/62050312",
+        "supplied_md5": "92c3a88522255acd88e102a4296a1bc2"
+      },
+      {
+        "id": 62050315,
+        "name": "C2F200N2Ne50A0.868795011768R2.arff",
+        "size": 196051,
+        "download_url": "https://ndownloader.figshare.com/files/62050315",
+        "supplied_md5": "17fda8ae69e0b371b90e0f38c31dfdfe"
+      },
+      {
+        "id": 62050303,
+        "name": "C2F200N2Ne50A0.868795011768R3.arff",
+        "size": 196383,
+        "download_url": "https://ndownloader.figshare.com/files/62050303",
+        "supplied_md5": "c86f81e37b17981529a14f7580f56bbe"
+      },
+      {
+        "id": 62050273,
+        "name": "C2F200N2Ne50A0.868795011768R4.arff",
+        "size": 196210,
+        "download_url": "https://ndownloader.figshare.com/files/62050273",
+        "supplied_md5": "82c1d3e0a26b1c055167ac2dc133164d"
+      },
+      {
+        "id": 62050276,
+        "name": "C2F200N2Ne50A0.868795011768R5.arff",
+        "size": 195952,
+        "download_url": "https://ndownloader.figshare.com/files/62050276",
+        "supplied_md5": "3c757f6b66eb3ef7932ae93944725efb"
+      },
+      {
+        "id": 62050279,
+        "name": "C2F200N2Ne50A0.868795011768R6.arff",
+        "size": 195908,
+        "download_url": "https://ndownloader.figshare.com/files/62050279",
+        "supplied_md5": "060abf8409c9156ba1ba61e7749453f6"
+      },
+      {
+        "id": 62050309,
+        "name": "C2F200N2Ne50A0.868795011768R7.arff",
+        "size": 195812,
+        "download_url": "https://ndownloader.figshare.com/files/62050309",
+        "supplied_md5": "775af050656254ea499cdba3c7267df1"
+      },
+      {
+        "id": 62050282,
+        "name": "C2F200N2Ne50A0.868795011768R8.arff",
+        "size": 196277,
+        "download_url": "https://ndownloader.figshare.com/files/62050282",
+        "supplied_md5": "df94655ec0bae15d54c8e0d1833f0373"
+      },
+      {
+        "id": 62050321,
+        "name": "C2F200N2Ne50A0.868795011768R9.arff",
+        "size": 196429,
+        "download_url": "https://ndownloader.figshare.com/files/62050321",
+        "supplied_md5": "55da7abc25b64921ba0187adaa75717b"
+      },
+      {
+        "id": 62050327,
+        "name": "C2F200N2Ne5A1.14354349446R0.arff",
+        "size": 25020,
+        "download_url": "https://ndownloader.figshare.com/files/62050327",
+        "supplied_md5": "ef41fdd865afd96399af200f90722b02"
+      },
+      {
+        "id": 62050420,
+        "name": "C2F200N2Ne5A1.14354349446R1.arff",
+        "size": 24965,
+        "download_url": "https://ndownloader.figshare.com/files/62050420",
+        "supplied_md5": "97f743c4e3ba964249aca59fe0ff6250"
+      },
+      {
+        "id": 62050342,
+        "name": "C2F200N2Ne5A1.14354349446R2.arff",
+        "size": 24980,
+        "download_url": "https://ndownloader.figshare.com/files/62050342",
+        "supplied_md5": "802ee37e07c58bf9840ac8693ff8cf12"
+      },
+      {
+        "id": 62050330,
+        "name": "C2F200N2Ne5A1.14354349446R3.arff",
+        "size": 24986,
+        "download_url": "https://ndownloader.figshare.com/files/62050330",
+        "supplied_md5": "6bce3f9ed87669325e1bfb4cd610e304"
+      },
+      {
+        "id": 62050348,
+        "name": "C2F200N2Ne5A1.14354349446R4.arff",
+        "size": 24940,
+        "download_url": "https://ndownloader.figshare.com/files/62050348",
+        "supplied_md5": "ba03e4cb8d7afd3160c89167641f5d00"
+      },
+      {
+        "id": 62050324,
+        "name": "C2F200N2Ne5A1.14354349446R5.arff",
+        "size": 24954,
+        "download_url": "https://ndownloader.figshare.com/files/62050324",
+        "supplied_md5": "2ad24506ba6e3f60cdf6d6ebaf09616a"
+      },
+      {
+        "id": 62050369,
+        "name": "C2F200N2Ne5A1.14354349446R6.arff",
+        "size": 24993,
+        "download_url": "https://ndownloader.figshare.com/files/62050369",
+        "supplied_md5": "2d28692c4473cb250d8eaf75d376d5d5"
+      },
+      {
+        "id": 62050366,
+        "name": "C2F200N2Ne5A1.14354349446R7.arff",
+        "size": 24971,
+        "download_url": "https://ndownloader.figshare.com/files/62050366",
+        "supplied_md5": "7fb3f0547b3cd64ade16b1cfbd6019c5"
+      },
+      {
+        "id": 62050345,
+        "name": "C2F200N2Ne5A1.14354349446R8.arff",
+        "size": 25019,
+        "download_url": "https://ndownloader.figshare.com/files/62050345",
+        "supplied_md5": "53c15cdea55130baf6b49d835d8de609"
+      },
+      {
+        "id": 62050393,
+        "name": "C2F200N2Ne5A1.14354349446R9.arff",
+        "size": 24990,
+        "download_url": "https://ndownloader.figshare.com/files/62050393",
+        "supplied_md5": "ea79ceb421a2fa45be1c4d03a345a773"
+      },
+      {
+        "id": 62050336,
+        "name": "C2F10N2Ne100A1.29632859131R0.txt",
+        "size": 17669,
+        "download_url": "https://ndownloader.figshare.com/files/62050336",
+        "supplied_md5": "a48a35552dec3e024476fc37b1bdd16b"
+      },
+      {
+        "id": 62050363,
+        "name": "C2F10N2Ne100A1.29632859131R1.txt",
+        "size": 17700,
+        "download_url": "https://ndownloader.figshare.com/files/62050363",
+        "supplied_md5": "7f59853e462586b870a95fb56afad475"
+      },
+      {
+        "id": 62050423,
+        "name": "C2F10N2Ne100A1.29632859131R2.txt",
+        "size": 17702,
+        "download_url": "https://ndownloader.figshare.com/files/62050423",
+        "supplied_md5": "3406e17c5b0094256a6aed8bf742abea"
+      },
+      {
+        "id": 62050402,
+        "name": "C2F10N2Ne100A1.29632859131R3.txt",
+        "size": 17472,
+        "download_url": "https://ndownloader.figshare.com/files/62050402",
+        "supplied_md5": "24e32357f8cd2aed1f7181fb62a81711"
+      },
+      {
+        "id": 62050375,
+        "name": "C2F10N2Ne100A1.29632859131R4.txt",
+        "size": 17709,
+        "download_url": "https://ndownloader.figshare.com/files/62050375",
+        "supplied_md5": "94e18bfa98ec4bb39d66a11bde045bea"
+      },
+      {
+        "id": 62050339,
+        "name": "C2F10N2Ne100A1.29632859131R5.txt",
+        "size": 17506,
+        "download_url": "https://ndownloader.figshare.com/files/62050339",
+        "supplied_md5": "73797f2e29716ec02b80a74456530632"
+      },
+      {
+        "id": 62050378,
+        "name": "C2F10N2Ne50A1.16090359317R0.txt",
+        "size": 8769,
+        "download_url": "https://ndownloader.figshare.com/files/62050378",
+        "supplied_md5": "0679fbecd4a2056af9faf0dcb9d2983e"
+      },
+      {
+        "id": 62050372,
+        "name": "C2F10N2Ne50A1.16090359317R1.txt",
+        "size": 8894,
+        "download_url": "https://ndownloader.figshare.com/files/62050372",
+        "supplied_md5": "db9014c88b28428ee6d85cfa971bc8b3"
+      },
+      {
+        "id": 62050411,
+        "name": "C2F10N2Ne50A1.16090359317R2.txt",
+        "size": 8668,
+        "download_url": "https://ndownloader.figshare.com/files/62050411",
+        "supplied_md5": "e2bc6c94f309c4c4e8b5dfba9e363aad"
+      },
+      {
+        "id": 62050357,
+        "name": "C2F10N2Ne50A1.16090359317R3.txt",
+        "size": 8849,
+        "download_url": "https://ndownloader.figshare.com/files/62050357",
+        "supplied_md5": "589509988e65c3540163ae40c5692aa0"
+      },
+      {
+        "id": 62050333,
+        "name": "C2F10N2Ne50A1.16090359317R4.txt",
+        "size": 8808,
+        "download_url": "https://ndownloader.figshare.com/files/62050333",
+        "supplied_md5": "1b588e8cecf653b57c5aafb1ad26984c"
+      },
+      {
+        "id": 62050390,
+        "name": "C2F10N2Ne50A1.16090359317R5.txt",
+        "size": 8674,
+        "download_url": "https://ndownloader.figshare.com/files/62050390",
+        "supplied_md5": "91c1db2bcbaffcbd32aaa60e93a1798c"
+      },
+      {
+        "id": 62050360,
+        "name": "C2F10N2Ne50A1.16090359317R6.txt",
+        "size": 8787,
+        "download_url": "https://ndownloader.figshare.com/files/62050360",
+        "supplied_md5": "c41c93f41863877b72458bc4b8d2d002"
+      },
+      {
+        "id": 62050354,
+        "name": "C2F10N2Ne50A1.16090359317R7.txt",
+        "size": 8918,
+        "download_url": "https://ndownloader.figshare.com/files/62050354",
+        "supplied_md5": "a120e625e52a2229918238af7ece54be"
+      },
+      {
+        "id": 62050405,
+        "name": "C2F10N2Ne50A1.16090359317R8.txt",
+        "size": 8702,
+        "download_url": "https://ndownloader.figshare.com/files/62050405",
+        "supplied_md5": "f03ed461bfb66fb40ec98cf5e85cf7ec"
+      },
+      {
+        "id": 62050351,
+        "name": "C2F10N2Ne50A1.16090359317R9.txt",
+        "size": 8713,
+        "download_url": "https://ndownloader.figshare.com/files/62050351",
+        "supplied_md5": "fa1843d0de63b5706e9aad2e0f600369"
+      },
+      {
+        "id": 62050426,
+        "name": "C2F10N2Ne5A1.47689559378R0.txt",
+        "size": 871,
+        "download_url": "https://ndownloader.figshare.com/files/62050426",
+        "supplied_md5": "71dafbec875786338ce46adf65745ddf"
+      },
+      {
+        "id": 62050429,
+        "name": "C2F10N2Ne5A1.47689559378R1.txt",
+        "size": 873,
+        "download_url": "https://ndownloader.figshare.com/files/62050429",
+        "supplied_md5": "a585954f82bcb1afb96ec0fbff216118"
+      },
+      {
+        "id": 62050414,
+        "name": "C2F10N2Ne5A1.47689559378R2.txt",
+        "size": 891,
+        "download_url": "https://ndownloader.figshare.com/files/62050414",
+        "supplied_md5": "064d77823ba231485a4d062bd73a36c7"
+      },
+      {
+        "id": 62050408,
+        "name": "C2F10N2Ne5A1.47689559378R3.txt",
+        "size": 884,
+        "download_url": "https://ndownloader.figshare.com/files/62050408",
+        "supplied_md5": "0742fd9e46b1407d1a4b657b10d162dc"
+      },
+      {
+        "id": 62050387,
+        "name": "C2F10N2Ne5A1.47689559378R4.txt",
+        "size": 884,
+        "download_url": "https://ndownloader.figshare.com/files/62050387",
+        "supplied_md5": "bde1c4bbbfc2dff5ef95534d0b5739fd"
+      },
+      {
+        "id": 62050381,
+        "name": "C2F10N2Ne5A1.47689559378R5.txt",
+        "size": 875,
+        "download_url": "https://ndownloader.figshare.com/files/62050381",
+        "supplied_md5": "e79a0d2ee3c3e87a3d29d7192fbb73ce"
+      },
+      {
+        "id": 62050384,
+        "name": "C2F10N2Ne5A1.47689559378R6.txt",
+        "size": 874,
+        "download_url": "https://ndownloader.figshare.com/files/62050384",
+        "supplied_md5": "4c400c0719f9098ac98061c3ddd3cec8"
+      },
+      {
+        "id": 62050417,
+        "name": "C2F10N2Ne5A1.47689559378R7.txt",
+        "size": 879,
+        "download_url": "https://ndownloader.figshare.com/files/62050417",
+        "supplied_md5": "3f3cc40e7ff0daeec1ae91f6ce2fdbdc"
+      },
+      {
+        "id": 62050396,
+        "name": "C2F10N2Ne5A1.47689559378R8.txt",
+        "size": 874,
+        "download_url": "https://ndownloader.figshare.com/files/62050396",
+        "supplied_md5": "67732b2685408d121d94d81374e3b6a8"
+      },
+      {
+        "id": 62050399,
+        "name": "C2F10N2Ne5A1.47689559378R9.txt",
+        "size": 889,
+        "download_url": "https://ndownloader.figshare.com/files/62050399",
+        "supplied_md5": "b4ed2561b19a3cfcf92f4f170cb7cbe5"
+      },
+      {
+        "id": 62050435,
+        "name": "C10F50N2Ne100A1.05747277742R0.txt",
+        "size": 427164,
+        "download_url": "https://ndownloader.figshare.com/files/62050435",
+        "supplied_md5": "ebe9a3e03dc8e8bf8fcf9822fa5ba135"
+      },
+      {
+        "id": 62050432,
+        "name": "C10F50N2Ne100A1.05747277742R1.txt",
+        "size": 427133,
+        "download_url": "https://ndownloader.figshare.com/files/62050432",
+        "supplied_md5": "863ef7fc1996f3caadb9bddbb2783de7"
+      },
+      {
+        "id": 62050441,
+        "name": "C10F50N2Ne100A1.05747277742R2.txt",
+        "size": 427815,
+        "download_url": "https://ndownloader.figshare.com/files/62050441",
+        "supplied_md5": "6e7878bec7cd60475bf433664cc01753"
+      },
+      {
+        "id": 62050438,
+        "name": "C10F50N2Ne100A1.05747277742R3.txt",
+        "size": 428378,
+        "download_url": "https://ndownloader.figshare.com/files/62050438",
+        "supplied_md5": "b2b9d4b87e401b794a3d6785eef51621"
+      },
+      {
+        "id": 62050450,
+        "name": "C10F50N2Ne100A1.05747277742R4.txt",
+        "size": 428186,
+        "download_url": "https://ndownloader.figshare.com/files/62050450",
+        "supplied_md5": "56cacaeb9adbe00cf9d068c6fd61db89"
+      },
+      {
+        "id": 62050444,
+        "name": "C10F50N2Ne100A1.05747277742R5.txt",
+        "size": 427574,
+        "download_url": "https://ndownloader.figshare.com/files/62050444",
+        "supplied_md5": "7da542791dc64f27175c77ad380a7921"
+      },
+      {
+        "id": 62050456,
+        "name": "C10F50N2Ne100A1.05747277742R6.txt",
+        "size": 429008,
+        "download_url": "https://ndownloader.figshare.com/files/62050456",
+        "supplied_md5": "f7dc5e9dbf727f7b8c0f1410ed6a98d4"
+      },
+      {
+        "id": 62050462,
+        "name": "C10F50N2Ne100A1.05747277742R7.txt",
+        "size": 427822,
+        "download_url": "https://ndownloader.figshare.com/files/62050462",
+        "supplied_md5": "b912183f58659adb8fe2a2df2cc5f2ac"
+      },
+      {
+        "id": 62050447,
+        "name": "C10F50N2Ne100A1.05747277742R8.txt",
+        "size": 428810,
+        "download_url": "https://ndownloader.figshare.com/files/62050447",
+        "supplied_md5": "4dedbf150bb85a2b4a65601a6db418c0"
+      },
+      {
+        "id": 62050453,
+        "name": "C10F50N2Ne100A1.05747277742R9.txt",
+        "size": 427625,
+        "download_url": "https://ndownloader.figshare.com/files/62050453",
+        "supplied_md5": "fe2f4d5e524c6b577726dbb6758a840b"
+      },
+      {
+        "id": 62050459,
+        "name": "C10F50N2Ne50A1.15274325985R0.txt",
+        "size": 214128,
+        "download_url": "https://ndownloader.figshare.com/files/62050459",
+        "supplied_md5": "7ea7c0d7afa34d9335f1f326ddd7a3f4"
+      },
+      {
+        "id": 62050468,
+        "name": "C10F50N2Ne50A1.15274325985R1.txt",
+        "size": 213890,
+        "download_url": "https://ndownloader.figshare.com/files/62050468",
+        "supplied_md5": "ca17a0b91529b6d2267f39b309b4bc70"
+      },
+      {
+        "id": 62050471,
+        "name": "C10F50N2Ne50A1.15274325985R2.txt",
+        "size": 214232,
+        "download_url": "https://ndownloader.figshare.com/files/62050471",
+        "supplied_md5": "96ca3e310743d94360d63746d9c9aab9"
+      },
+      {
+        "id": 62050474,
+        "name": "C10F50N2Ne50A1.15274325985R3.txt",
+        "size": 214268,
+        "download_url": "https://ndownloader.figshare.com/files/62050474",
+        "supplied_md5": "40a45b74c239dcc983e26db70fbb8c1a"
+      },
+      {
+        "id": 62050465,
+        "name": "C10F50N2Ne50A1.15274325985R4.txt",
+        "size": 214297,
+        "download_url": "https://ndownloader.figshare.com/files/62050465",
+        "supplied_md5": "bc7d56a4b571165a53b886cbb0ad1a8e"
+      },
+      {
+        "id": 62050477,
+        "name": "C10F50N2Ne50A1.15274325985R5.txt",
+        "size": 213805,
+        "download_url": "https://ndownloader.figshare.com/files/62050477",
+        "supplied_md5": "0208595d1e1e128c0827d14b6e20eb13"
+      },
+      {
+        "id": 62050480,
+        "name": "C10F50N2Ne50A1.15274325985R6.txt",
+        "size": 214147,
+        "download_url": "https://ndownloader.figshare.com/files/62050480",
+        "supplied_md5": "a9165ffd444b5c45fa473401bec27fb2"
+      },
+      {
+        "id": 62050483,
+        "name": "C10F50N2Ne50A1.15274325985R7.txt",
+        "size": 213826,
+        "download_url": "https://ndownloader.figshare.com/files/62050483",
+        "supplied_md5": "a0a6f31fe22b2df3b29ff177d797c0f0"
+      },
+      {
+        "id": 62050489,
+        "name": "C10F50N2Ne50A1.15274325985R8.txt",
+        "size": 214282,
+        "download_url": "https://ndownloader.figshare.com/files/62050489",
+        "supplied_md5": "c25ac87794a777fae7f3bffc030c7599"
+      },
+      {
+        "id": 62050486,
+        "name": "C10F50N2Ne50A1.15274325985R9.txt",
+        "size": 214152,
+        "download_url": "https://ndownloader.figshare.com/files/62050486",
+        "supplied_md5": "d9ff3b28fc3047bfc4fd29ca40e90830"
+      },
+      {
+        "id": 62050492,
+        "name": "C10F50N2Ne5A1.44224957031R0.txt",
+        "size": 21455,
+        "download_url": "https://ndownloader.figshare.com/files/62050492",
+        "supplied_md5": "73b32861106b714b501d9f9421271189"
+      },
+      {
+        "id": 62050495,
+        "name": "C10F50N2Ne5A1.44224957031R1.txt",
+        "size": 21464,
+        "download_url": "https://ndownloader.figshare.com/files/62050495",
+        "supplied_md5": "5972a40c51f3756ab9d188b13deb3c1e"
+      },
+      {
+        "id": 62050498,
+        "name": "C10F50N2Ne5A1.44224957031R2.txt",
+        "size": 21371,
+        "download_url": "https://ndownloader.figshare.com/files/62050498",
+        "supplied_md5": "a07348829b318ce79ce71b90ab041c5c"
+      },
+      {
+        "id": 62050501,
+        "name": "C10F50N2Ne5A1.44224957031R3.txt",
+        "size": 21475,
+        "download_url": "https://ndownloader.figshare.com/files/62050501",
+        "supplied_md5": "40724b37745e3f810a5a23e0ff8044fd"
+      },
+      {
+        "id": 62050507,
+        "name": "C10F50N2Ne5A1.44224957031R4.txt",
+        "size": 21368,
+        "download_url": "https://ndownloader.figshare.com/files/62050507",
+        "supplied_md5": "04c5c556d984278d875adb15e0ba22cd"
+      },
+      {
+        "id": 62050510,
+        "name": "C10F50N2Ne5A1.44224957031R5.txt",
+        "size": 21386,
+        "download_url": "https://ndownloader.figshare.com/files/62050510",
+        "supplied_md5": "2d0fefe1034b95d347718ea8ac69b301"
+      },
+      {
+        "id": 62050513,
+        "name": "C10F50N2Ne5A1.44224957031R6.txt",
+        "size": 21385,
+        "download_url": "https://ndownloader.figshare.com/files/62050513",
+        "supplied_md5": "ef6eb011b98d11f01e6ec4dad7e7c2dc"
+      },
+      {
+        "id": 62050516,
+        "name": "C10F50N2Ne5A1.44224957031R7.txt",
+        "size": 21413,
+        "download_url": "https://ndownloader.figshare.com/files/62050516",
+        "supplied_md5": "9f580818ebb28c3016634400de96d237"
+      },
+      {
+        "id": 62050519,
+        "name": "C10F50N2Ne5A1.44224957031R8.txt",
+        "size": 21332,
+        "download_url": "https://ndownloader.figshare.com/files/62050519",
+        "supplied_md5": "a583d2569ba56f3b7c76f89998619dcc"
+      },
+      {
+        "id": 62050522,
+        "name": "C10F50N2Ne5A1.44224957031R9.txt",
+        "size": 21349,
+        "download_url": "https://ndownloader.figshare.com/files/62050522",
+        "supplied_md5": "7733b2a25bd7ce5cd370ff173c3df7c6"
+      },
+      {
+        "id": 62050525,
+        "name": "C10F200N2Ne100A0.94361410145R0.arff",
+        "size": 1909660,
+        "download_url": "https://ndownloader.figshare.com/files/62050525",
+        "supplied_md5": "c2c9dcb25d3249a79b68071c8be2553f"
+      },
+      {
+        "id": 62050528,
+        "name": "C10F200N2Ne100A0.94361410145R1.arff",
+        "size": 1909783,
+        "download_url": "https://ndownloader.figshare.com/files/62050528",
+        "supplied_md5": "8301bb74a7a07de615f08af018306dda"
+      },
+      {
+        "id": 62050534,
+        "name": "C10F200N2Ne100A0.94361410145R2.arff",
+        "size": 1909025,
+        "download_url": "https://ndownloader.figshare.com/files/62050534",
+        "supplied_md5": "c0b0b28d44dd0ce548d12f5849a75a00"
+      },
+      {
+        "id": 62050537,
+        "name": "C10F200N2Ne100A0.94361410145R3.arff",
+        "size": 1909566,
+        "download_url": "https://ndownloader.figshare.com/files/62050537",
+        "supplied_md5": "f6f4099e5e0b37e5fe3456852f842bb6"
+      },
+      {
+        "id": 62050540,
+        "name": "C10F200N2Ne100A0.94361410145R4.arff",
+        "size": 1907548,
+        "download_url": "https://ndownloader.figshare.com/files/62050540",
+        "supplied_md5": "8ad5683c12af5738619ff88a27b4c250"
+      },
+      {
+        "id": 62050543,
+        "name": "C10F200N2Ne100A0.94361410145R5.arff",
+        "size": 1907499,
+        "download_url": "https://ndownloader.figshare.com/files/62050543",
+        "supplied_md5": "203cc6c67248b4e8085080130dc22194"
+      },
+      {
+        "id": 62050546,
+        "name": "C10F200N2Ne100A0.94361410145R6.arff",
+        "size": 1908971,
+        "download_url": "https://ndownloader.figshare.com/files/62050546",
+        "supplied_md5": "a3e2b925f225bf9e48bbc2311696301c"
+      },
+      {
+        "id": 62050549,
+        "name": "C10F200N2Ne100A0.94361410145R7.arff",
+        "size": 1909776,
+        "download_url": "https://ndownloader.figshare.com/files/62050549",
+        "supplied_md5": "3ec0d02ecdf839ff10ed20d183b1802f"
+      },
+      {
+        "id": 62050558,
+        "name": "C10F200N2Ne100A0.94361410145R8.arff",
+        "size": 1910055,
+        "download_url": "https://ndownloader.figshare.com/files/62050558",
+        "supplied_md5": "6d8ceb120229dbd0991d3c6db7a68087"
+      },
+      {
+        "id": 62050555,
+        "name": "C10F200N2Ne100A0.94361410145R9.arff",
+        "size": 1908654,
+        "download_url": "https://ndownloader.figshare.com/files/62050555",
+        "supplied_md5": "833947f1abea42d93ae281e55d3656d2"
+      },
+      {
+        "id": 62050552,
+        "name": "C10F200N2Ne50A1.08528937343R0.arff",
+        "size": 957916,
+        "download_url": "https://ndownloader.figshare.com/files/62050552",
+        "supplied_md5": "b58541be2f1f5fabaa466f34e0b82b59"
+      },
+      {
+        "id": 62050561,
+        "name": "C10F200N2Ne50A1.08528937343R1.arff",
+        "size": 956525,
+        "download_url": "https://ndownloader.figshare.com/files/62050561",
+        "supplied_md5": "b18b215daca3e119d4ef3da6b12e8271"
+      },
+      {
+        "id": 62050564,
+        "name": "C10F200N2Ne50A1.08528937343R2.arff",
+        "size": 957204,
+        "download_url": "https://ndownloader.figshare.com/files/62050564",
+        "supplied_md5": "dc8311208dbd2dd75ea995dbafdd7db9"
+      },
+      {
+        "id": 62050573,
+        "name": "C10F200N2Ne50A1.08528937343R3.arff",
+        "size": 957553,
+        "download_url": "https://ndownloader.figshare.com/files/62050573",
+        "supplied_md5": "bcd7a84a91c54758c17126333089cd25"
+      },
+      {
+        "id": 62050567,
+        "name": "C10F200N2Ne50A1.08528937343R4.arff",
+        "size": 957004,
+        "download_url": "https://ndownloader.figshare.com/files/62050567",
+        "supplied_md5": "1151577c047f4f5794b8e86d2a4c4497"
+      },
+      {
+        "id": 62050576,
+        "name": "C10F200N2Ne50A1.08528937343R5.arff",
+        "size": 957416,
+        "download_url": "https://ndownloader.figshare.com/files/62050576",
+        "supplied_md5": "5d8817eba5339461dbc311e5b2d60bd6"
+      },
+      {
+        "id": 62050570,
+        "name": "C10F200N2Ne50A1.08528937343R6.arff",
+        "size": 958295,
+        "download_url": "https://ndownloader.figshare.com/files/62050570",
+        "supplied_md5": "8c5fc15784f89985288bf3a8ee028e48"
+      },
+      {
+        "id": 62050579,
+        "name": "C10F200N2Ne50A1.08528937343R7.arff",
+        "size": 956814,
+        "download_url": "https://ndownloader.figshare.com/files/62050579",
+        "supplied_md5": "5ff8bdce97a6c5db27691f43a3d50973"
+      },
+      {
+        "id": 62050582,
+        "name": "C10F200N2Ne50A1.08528937343R8.arff",
+        "size": 957253,
+        "download_url": "https://ndownloader.figshare.com/files/62050582",
+        "supplied_md5": "6750cc8564e80dab7016f1403cab6d6c"
+      },
+      {
+        "id": 62050591,
+        "name": "C10F200N2Ne50A1.08528937343R9.arff",
+        "size": 957798,
+        "download_url": "https://ndownloader.figshare.com/files/62050591",
+        "supplied_md5": "779a789a124e3e834c3c096aded599a6"
+      },
+      {
+        "id": 62050585,
+        "name": "C10F200N2Ne5A1.47308741295R0.arff",
+        "size": 101087,
+        "download_url": "https://ndownloader.figshare.com/files/62050585",
+        "supplied_md5": "3b6de4f9e9bb43ea5bd96e1d2d884947"
+      },
+      {
+        "id": 62050588,
+        "name": "C10F200N2Ne5A1.47308741295R1.arff",
+        "size": 101154,
+        "download_url": "https://ndownloader.figshare.com/files/62050588",
+        "supplied_md5": "1979ef0e0c646ca408f911fd4a7cdf8a"
+      },
+      {
+        "id": 62050594,
+        "name": "C10F200N2Ne5A1.47308741295R2.arff",
+        "size": 101063,
+        "download_url": "https://ndownloader.figshare.com/files/62050594",
+        "supplied_md5": "fcd1e08ac0d247a9c257cb8b30fea708"
+      },
+      {
+        "id": 62050597,
+        "name": "C10F200N2Ne5A1.47308741295R3.arff",
+        "size": 101028,
+        "download_url": "https://ndownloader.figshare.com/files/62050597",
+        "supplied_md5": "40b8e9dc84b152c29d5c4d32cfb3184c"
+      },
+      {
+        "id": 62050600,
+        "name": "C10F200N2Ne5A1.47308741295R4.arff",
+        "size": 101066,
+        "download_url": "https://ndownloader.figshare.com/files/62050600",
+        "supplied_md5": "636925d80f47edeef9b87a4c1b0323ea"
+      },
+      {
+        "id": 62050603,
+        "name": "C10F200N2Ne5A1.47308741295R5.arff",
+        "size": 101175,
+        "download_url": "https://ndownloader.figshare.com/files/62050603",
+        "supplied_md5": "143da52396f6e98ae58ada76df09f951"
+      },
+      {
+        "id": 62050606,
+        "name": "C10F200N2Ne5A1.47308741295R6.arff",
+        "size": 101125,
+        "download_url": "https://ndownloader.figshare.com/files/62050606",
+        "supplied_md5": "16986cbedecdef0981097d966b1c9050"
+      },
+      {
+        "id": 62050609,
+        "name": "C10F200N2Ne5A1.47308741295R7.arff",
+        "size": 101133,
+        "download_url": "https://ndownloader.figshare.com/files/62050609",
+        "supplied_md5": "60577fb59ea291c7f33118c021529ec1"
+      },
+      {
+        "id": 62050612,
+        "name": "C10F200N2Ne5A1.47308741295R8.arff",
+        "size": 101108,
+        "download_url": "https://ndownloader.figshare.com/files/62050612",
+        "supplied_md5": "aef24647f6e03f65ec7411e56a46efee"
+      },
+      {
+        "id": 62050621,
+        "name": "C10F200N2Ne5A1.47308741295R9.arff",
+        "size": 101161,
+        "download_url": "https://ndownloader.figshare.com/files/62050621",
+        "supplied_md5": "9b8ce0b0e91b19e4877583a238d02a8a"
+      },
+      {
+        "id": 62050624,
+        "name": "C10F10N2Ne100A1.67906577407R0.txt",
+        "size": 88098,
+        "download_url": "https://ndownloader.figshare.com/files/62050624",
+        "supplied_md5": "287a71b79d522b62902d648ca0e3c56f"
+      },
+      {
+        "id": 62050615,
+        "name": "C10F10N2Ne100A1.67906577407R1.txt",
+        "size": 87259,
+        "download_url": "https://ndownloader.figshare.com/files/62050615",
+        "supplied_md5": "ae13839edacc7ddbce321c5607e30d91"
+      },
+      {
+        "id": 62050618,
+        "name": "C10F10N2Ne100A1.67906577407R2.txt",
+        "size": 88443,
+        "download_url": "https://ndownloader.figshare.com/files/62050618",
+        "supplied_md5": "3d4c11a91778dad83e20ec9cdf960f48"
+      },
+      {
+        "id": 62050630,
+        "name": "C10F10N2Ne100A1.67906577407R3.txt",
+        "size": 88103,
+        "download_url": "https://ndownloader.figshare.com/files/62050630",
+        "supplied_md5": "ff2e57b4cd1ed31102db595da51b04cb"
+      },
+      {
+        "id": 62050627,
+        "name": "C10F10N2Ne100A1.67906577407R4.txt",
+        "size": 87504,
+        "download_url": "https://ndownloader.figshare.com/files/62050627",
+        "supplied_md5": "1a2923e679618e1c9184d7ab284f5b2f"
+      },
+      {
+        "id": 62050639,
+        "name": "C10F10N2Ne100A1.67906577407R5.txt",
+        "size": 88414,
+        "download_url": "https://ndownloader.figshare.com/files/62050639",
+        "supplied_md5": "de05faceed573d6452bb960b7b765ae5"
+      },
+      {
+        "id": 62050633,
+        "name": "C10F10N2Ne100A1.67906577407R6.txt",
+        "size": 88094,
+        "download_url": "https://ndownloader.figshare.com/files/62050633",
+        "supplied_md5": "ada76d2b1be88af8627a1633ad3b436e"
+      },
+      {
+        "id": 62050636,
+        "name": "C10F10N2Ne100A1.67906577407R7.txt",
+        "size": 87980,
+        "download_url": "https://ndownloader.figshare.com/files/62050636",
+        "supplied_md5": "c8a893acb6bdd04b992d19f36b8e8651"
+      },
+      {
+        "id": 62050657,
+        "name": "C10F10N2Ne100A1.67906577407R8.txt",
+        "size": 87860,
+        "download_url": "https://ndownloader.figshare.com/files/62050657",
+        "supplied_md5": "704d49ca23041270dbb770843c02f686"
+      },
+      {
+        "id": 62050642,
+        "name": "C10F10N2Ne100A1.67906577407R9.txt",
+        "size": 87929,
+        "download_url": "https://ndownloader.figshare.com/files/62050642",
+        "supplied_md5": "d85ffcfffc078860a18685b39ffa5cfe"
+      },
+      {
+        "id": 62050645,
+        "name": "C10F10N2Ne50A1.75278061509R0.txt",
+        "size": 43902,
+        "download_url": "https://ndownloader.figshare.com/files/62050645",
+        "supplied_md5": "463166d923b29f969d396ccbe67bbc35"
+      },
+      {
+        "id": 62050648,
+        "name": "C10F10N2Ne50A1.75278061509R1.txt",
+        "size": 43968,
+        "download_url": "https://ndownloader.figshare.com/files/62050648",
+        "supplied_md5": "5e0f07c40c688e6370fbff44a2f4f3a4"
+      },
+      {
+        "id": 62050651,
+        "name": "C10F10N2Ne50A1.75278061509R2.txt",
+        "size": 43889,
+        "download_url": "https://ndownloader.figshare.com/files/62050651",
+        "supplied_md5": "012835421e0af0639f96faa02ce6c2a8"
+      },
+      {
+        "id": 62050654,
+        "name": "C10F10N2Ne50A1.75278061509R3.txt",
+        "size": 43833,
+        "download_url": "https://ndownloader.figshare.com/files/62050654",
+        "supplied_md5": "23c0151d161c810fba1db18b0444d114"
+      },
+      {
+        "id": 62050663,
+        "name": "C10F10N2Ne50A1.75278061509R4.txt",
+        "size": 44100,
+        "download_url": "https://ndownloader.figshare.com/files/62050663",
+        "supplied_md5": "8d846c0cbd6fe7415c266afc3ed76417"
+      },
+      {
+        "id": 62050666,
+        "name": "C10F10N2Ne50A1.75278061509R5.txt",
+        "size": 44130,
+        "download_url": "https://ndownloader.figshare.com/files/62050666",
+        "supplied_md5": "ea76e9aa7f733a58d758b431ce99fbe6"
+      },
+      {
+        "id": 62050660,
+        "name": "C10F10N2Ne50A1.75278061509R6.txt",
+        "size": 44332,
+        "download_url": "https://ndownloader.figshare.com/files/62050660",
+        "supplied_md5": "73f5f6827fb0476cc187b6b08f628a25"
+      },
+      {
+        "id": 62050669,
+        "name": "C10F10N2Ne50A1.75278061509R7.txt",
+        "size": 43699,
+        "download_url": "https://ndownloader.figshare.com/files/62050669",
+        "supplied_md5": "bbc1a269ba00f8b071dc2f886ddbd653"
+      },
+      {
+        "id": 62050675,
+        "name": "C10F10N2Ne50A1.75278061509R8.txt",
+        "size": 43928,
+        "download_url": "https://ndownloader.figshare.com/files/62050675",
+        "supplied_md5": "f3bcc2e2eb6fd886eac3b2125915d41f"
+      },
+      {
+        "id": 62050690,
+        "name": "C10F10N2Ne50A1.75278061509R9.txt",
+        "size": 44122,
+        "download_url": "https://ndownloader.figshare.com/files/62050690",
+        "supplied_md5": "77a48c885bd7b7539ceb387e35d03d50"
+      },
+      {
+        "id": 62050684,
+        "name": "C10F10N2Ne5A2.0330517838R0.txt",
+        "size": 4380,
+        "download_url": "https://ndownloader.figshare.com/files/62050684",
+        "supplied_md5": "d5b568b191aafd4a6bb056a0032392d8"
+      },
+      {
+        "id": 62050678,
+        "name": "C10F10N2Ne5A2.0330517838R1.txt",
+        "size": 4415,
+        "download_url": "https://ndownloader.figshare.com/files/62050678",
+        "supplied_md5": "04e02638b67f18ee847f67f463584156"
+      },
+      {
+        "id": 62050714,
+        "name": "C10F10N2Ne5A2.0330517838R2.txt",
+        "size": 4425,
+        "download_url": "https://ndownloader.figshare.com/files/62050714",
+        "supplied_md5": "5bc7203b678b964a7ed18b07d2f413bd"
+      },
+      {
+        "id": 62050693,
+        "name": "C10F10N2Ne5A2.0330517838R3.txt",
+        "size": 4434,
+        "download_url": "https://ndownloader.figshare.com/files/62050693",
+        "supplied_md5": "cc9ee5d0180585f1829c54620ec044ae"
+      },
+      {
+        "id": 62050705,
+        "name": "C10F10N2Ne5A2.0330517838R4.txt",
+        "size": 4416,
+        "download_url": "https://ndownloader.figshare.com/files/62050705",
+        "supplied_md5": "b6a49b2c3f4ddc0b6511073d49292937"
+      },
+      {
+        "id": 62050708,
+        "name": "C10F10N2Ne5A2.0330517838R5.txt",
+        "size": 4428,
+        "download_url": "https://ndownloader.figshare.com/files/62050708",
+        "supplied_md5": "ba86683267afd89a451033000c0c2e17"
+      },
+      {
+        "id": 62050699,
+        "name": "C10F10N2Ne5A2.0330517838R6.txt",
+        "size": 4381,
+        "download_url": "https://ndownloader.figshare.com/files/62050699",
+        "supplied_md5": "ff9c76b28ab6ae4f6cc7af4d25482ece"
+      },
+      {
+        "id": 62050711,
+        "name": "C10F10N2Ne5A2.0330517838R7.txt",
+        "size": 4404,
+        "download_url": "https://ndownloader.figshare.com/files/62050711",
+        "supplied_md5": "312cd8c2a14c9054a32ab8b5d4b5f8f7"
+      },
+      {
+        "id": 62050720,
+        "name": "C10F10N2Ne5A2.0330517838R8.txt",
+        "size": 4394,
+        "download_url": "https://ndownloader.figshare.com/files/62050720",
+        "supplied_md5": "0d9e23fc0a607b4cd1bc763002f91524"
+      },
+      {
+        "id": 62050723,
+        "name": "C10F10N2Ne5A2.0330517838R9.txt",
+        "size": 4373,
+        "download_url": "https://ndownloader.figshare.com/files/62050723",
+        "supplied_md5": "210d7d1fc2384af2513f7f3ce4cd0086"
+      }
+    ]
+  },
+  {
+    "id": 31386421,
+    "version": 1,
+    "title": "Real data",
+    "doi": "10.6084/m9.figshare.31386421.v1",
+    "license": {
+      "value": 3,
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    },
+    "folder_structure": {
+      "62061820": "Real_data/yeast",
+      "62061823": "Real_data/wine+quality",
+      "62061832": "Real_data/wine+quality",
+      "62061826": "Real_data/yeast",
+      "62061835": "Real_data/vertebral+column",
+      "62061838": "Real_data/wine",
+      "62061856": "Real_data/vertebral+column",
+      "62061850": "Real_data/statlog+vehicle+silhouettes",
+      "62061847": "Real_data/wine",
+      "62061829": "Real_data/wine+quality",
+      "62061859": "Real_data/statlog+vehicle+silhouettes",
+      "62061844": "Real_data/vertebral+column",
+      "62061841": "Real_data/statlog+vehicle+silhouettes",
+      "62061853": "Real_data/wine",
+      "62061868": "Real_data/statlog+vehicle+silhouettes",
+      "62061862": "Real_data/statlog+vehicle+silhouettes",
+      "62061892": "Real_data/spect+heart",
+      "62061874": "Real_data/statlog+vehicle+silhouettes",
+      "62061865": "Real_data/statlog+vehicle+silhouettes",
+      "62061898": "Real_data/parkinsons/telemonitoring",
+      "62061880": "Real_data/statlog+vehicle+silhouettes",
+      "62061883": "Real_data/spect+heart",
+      "62061871": "Real_data/statlog+vehicle+silhouettes",
+      "62061895": "Real_data/statlog+vehicle+silhouettes",
+      "62061877": "Real_data/spect+heart",
+      "62061889": "Real_data/parkinsons/telemonitoring",
+      "62061886": "Real_data/statlog+vehicle+silhouettes",
+      "62061907": "Real_data/musk+version+1",
+      "62061901": "Real_data/spect+heart",
+      "62061904": "Real_data/parkinsons",
+      "62061910": "Real_data/vertebral+column",
+      "62061913": "Real_data/parkinsons",
+      "62061916": "Real_data/musk+version+1",
+      "62061919": "Real_data/musk+version+1",
+      "62061922": "Real_data/musk+version+1",
+      "62061925": "Real_data/libras+movement",
+      "62061928": "Real_data/libras+movement",
+      "62061940": "Real_data/libras+movement",
+      "62061937": "Real_data/libras+movement",
+      "62061934": "Real_data/libras+movement",
+      "62061946": "Real_data/iris",
+      "62061931": "Real_data/libras+movement",
+      "62061943": "Real_data/iris",
+      "62061952": "Real_data/libras+movement",
+      "62061949": "Real_data/iris",
+      "62061955": "Real_data/iris",
+      "62061958": "Real_data/ionosphere",
+      "62061961": "Real_data/ionosphere",
+      "62061970": "Real_data/image+segmentation",
+      "62061964": "Real_data/image+segmentation",
+      "62061967": "Real_data/ionosphere",
+      "62061973": "Real_data/image+segmentation",
+      "62061976": "Real_data/image+segmentation",
+      "62061979": "Real_data/haberman+s+survival",
+      "62061982": "Real_data/glass+identification",
+      "62061985": "Real_data/haberman+s+survival",
+      "62061988": "Real_data/glass+identification",
+      "62061991": "Real_data/glass+identification",
+      "62061994": "Real_data/glass+identification",
+      "62061997": "Real_data/ecoli",
+      "62062003": "Real_data/connectionist+bench+vowel+recognition+deterding+data",
+      "62062006": "Real_data/connectionist+bench+vowel+recognition+deterding+data",
+      "62062000": "Real_data/ecoli",
+      "62062015": "Real_data/connectionist+bench+vowel+recognition+deterding+data",
+      "62062012": "Real_data/connectionist+bench+sonar+mines+vs+rocks",
+      "62062024": "Real_data/connectionist+bench+sonar+mines+vs+rocks",
+      "62062018": "Real_data/connectionist+bench+sonar+mines+vs+rocks",
+      "62062021": "Real_data/connectionist+bench+vowel+recognition+deterding+data",
+      "62062027": "Real_data/connectionist+bench+vowel+recognition+deterding+data",
+      "62062009": "Real_data/connectionist+bench+vowel+recognition+deterding+data",
+      "62062030": "Real_data/connectionist+bench+sonar+mines+vs+rocks",
+      "62062033": "Real_data/connectionist+bench+sonar+mines+vs+rocks",
+      "62062036": "Real_data/breast+tissue",
+      "62062039": "Real_data/blood+transfusion+service+center",
+      "62062042": "Real_data/breast+cancer+wisconsin+diagnostic",
+      "62062045": "Real_data/breast+cancer+wisconsin+diagnostic",
+      "62062048": "Real_data/blood+transfusion+service+center"
+    },
+    "files": [
+      {
+        "id": 62061826,
+        "name": "yeast.data",
+        "size": 94976,
+        "download_url": "https://ndownloader.figshare.com/files/62061826",
+        "supplied_md5": "ccd9ef423209c96d65475df016d67d4b"
+      },
+      {
+        "id": 62061823,
+        "name": "winequality-red.csv",
+        "size": 84199,
+        "download_url": "https://ndownloader.figshare.com/files/62061823",
+        "supplied_md5": "2daeecee174368f8a33b82c8cccae3a5"
+      },
+      {
+        "id": 62061853,
+        "name": "wine.data",
+        "size": 10782,
+        "download_url": "https://ndownloader.figshare.com/files/62061853",
+        "supplied_md5": "3e584720e6718d28509f86f05b7885a1"
+      },
+      {
+        "id": 62061910,
+        "name": "column_3C.dat",
+        "size": 11796,
+        "download_url": "https://ndownloader.figshare.com/files/62061910",
+        "supplied_md5": "8edacc099eac8e4570a877beaff1dba0"
+      },
+      {
+        "id": 62061859,
+        "name": "xaa.dat",
+        "size": 6140,
+        "download_url": "https://ndownloader.figshare.com/files/62061859",
+        "supplied_md5": "58e47d145a615a66f63d6ebee1464c03"
+      },
+      {
+        "id": 62061868,
+        "name": "xab.dat",
+        "size": 6175,
+        "download_url": "https://ndownloader.figshare.com/files/62061868",
+        "supplied_md5": "acb3f6058d5c5be32bb6f6ca32a33589"
+      },
+      {
+        "id": 62061865,
+        "name": "xac.dat",
+        "size": 6150,
+        "download_url": "https://ndownloader.figshare.com/files/62061865",
+        "supplied_md5": "cfea1bcae46637fc9d809728ad5087d7"
+      },
+      {
+        "id": 62061862,
+        "name": "xad.dat",
+        "size": 6182,
+        "download_url": "https://ndownloader.figshare.com/files/62061862",
+        "supplied_md5": "04322617a9c210dd628d296ee54747d8"
+      },
+      {
+        "id": 62061871,
+        "name": "xae.dat",
+        "size": 6174,
+        "download_url": "https://ndownloader.figshare.com/files/62061871",
+        "supplied_md5": "ee3f88b55a12d910226e25d7a6f4b5f3"
+      },
+      {
+        "id": 62061886,
+        "name": "xaf.dat",
+        "size": 6193,
+        "download_url": "https://ndownloader.figshare.com/files/62061886",
+        "supplied_md5": "ea2c7de08ebadb7210ebd71b4bbd614e"
+      },
+      {
+        "id": 62061880,
+        "name": "xag.dat",
+        "size": 6158,
+        "download_url": "https://ndownloader.figshare.com/files/62061880",
+        "supplied_md5": "a5f2d9e088d7093f0e809f98a892dd99"
+      },
+      {
+        "id": 62061874,
+        "name": "xah.dat",
+        "size": 6178,
+        "download_url": "https://ndownloader.figshare.com/files/62061874",
+        "supplied_md5": "ac7ee8eab9cc5094dbf67565cacafc74"
+      },
+      {
+        "id": 62061895,
+        "name": "xai.dat",
+        "size": 6167,
+        "download_url": "https://ndownloader.figshare.com/files/62061895",
+        "supplied_md5": "63dc598be76f165a7526b925249db8a4"
+      },
+      {
+        "id": 62061904,
+        "name": "parkinsons.data",
+        "size": 40697,
+        "download_url": "https://ndownloader.figshare.com/files/62061904",
+        "supplied_md5": "d39150ece93cc717703cfa072d3219b2"
+      },
+      {
+        "id": 62061907,
+        "name": "clean1.data.Z",
+        "size": 110731,
+        "download_url": "https://ndownloader.figshare.com/files/62061907",
+        "supplied_md5": "55ad0b356299e42b229c75f4bcdb361b"
+      },
+      {
+        "id": 62061925,
+        "name": "movement_libras.data",
+        "size": 256653,
+        "download_url": "https://ndownloader.figshare.com/files/62061925",
+        "supplied_md5": "4cc88845e24d08f09d5554ef50bf29f1"
+      },
+      {
+        "id": 62061946,
+        "name": "iris.data",
+        "size": 4551,
+        "download_url": "https://ndownloader.figshare.com/files/62061946",
+        "supplied_md5": "42615765a885ddf54427f12c34a0a070"
+      },
+      {
+        "id": 62061967,
+        "name": "ionosphere.data",
+        "size": 76467,
+        "download_url": "https://ndownloader.figshare.com/files/62061967",
+        "supplied_md5": "85649e5fb5b15fb9dab726c400be61fe"
+      },
+      {
+        "id": 62061970,
+        "name": "segmentation.data",
+        "size": 34842,
+        "download_url": "https://ndownloader.figshare.com/files/62061970",
+        "supplied_md5": "e4915238ecb818f8c0e50813d8b8fd9b"
+      },
+      {
+        "id": 62061976,
+        "name": "segmentation.test",
+        "size": 345084,
+        "download_url": "https://ndownloader.figshare.com/files/62061976",
+        "supplied_md5": "3fac72e6f5f8f9cc85e9dbc5f805e835"
+      },
+      {
+        "id": 62061985,
+        "name": "haberman.data",
+        "size": 3103,
+        "download_url": "https://ndownloader.figshare.com/files/62061985",
+        "supplied_md5": "867c77f6a99090e1af91510211f8b68c"
+      },
+      {
+        "id": 62061982,
+        "name": "glass.data",
+        "size": 11903,
+        "download_url": "https://ndownloader.figshare.com/files/62061982",
+        "supplied_md5": "2732c9170bf8c483f33da3c58929c067"
+      },
+      {
+        "id": 62061997,
+        "name": "ecoli.data",
+        "size": 19488,
+        "download_url": "https://ndownloader.figshare.com/files/62061997",
+        "supplied_md5": "07247cc68c30010b9e22bfddac075cfa"
+      },
+      {
+        "id": 62062006,
+        "name": "vowel-context.data",
+        "size": 73565,
+        "download_url": "https://ndownloader.figshare.com/files/62062006",
+        "supplied_md5": "3885d09c54ffbfde89eb7eaeb9863fb1"
+      },
+      {
+        "id": 62062012,
+        "name": "sonar.all-data",
+        "size": 87776,
+        "download_url": "https://ndownloader.figshare.com/files/62062012",
+        "supplied_md5": "77f5ca97c7b87b3edd3639a4ebc24e5c"
+      },
+      {
+        "id": 62062036,
+        "name": "BreastTissue.xls",
+        "size": 87040,
+        "download_url": "https://ndownloader.figshare.com/files/62062036",
+        "supplied_md5": "1b41ae733c957e2089b511730ef41ae5"
+      },
+      {
+        "id": 62062045,
+        "name": "wdbc.data",
+        "size": 124103,
+        "download_url": "https://ndownloader.figshare.com/files/62062045",
+        "supplied_md5": "c6dd5a2909808f3a901cf00cfd8dfff0"
+      },
+      {
+        "id": 62062039,
+        "name": "transfusion.data",
+        "size": 12843,
+        "download_url": "https://ndownloader.figshare.com/files/62062039",
+        "supplied_md5": "7e5c76b07803fe95f6e7a86b55b5ac22"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+\begin{tabular}{l l cc cc}
+\toprule
+\textbf{Method} & \textbf{Reduction} & \multicolumn{2}{c}{\textbf{Percentage of Wins}} & \multicolumn{2}{c}{\textbf{Average win/loss (-) percentage}} \\
+\cmidrule(lr){3-4} \cmidrule(lr){5-6}
+& & \textbf{Synthetic Data} & \textbf{Real-world Data} & \textbf{Synthetic Data} & \textbf{Real-world Data} \\
+\midrule
+\multirow{3}{*}{PCA} & $k-1$ & 31.0 & 55.0 & +9.41 & +10.66 \\
+ & 25\% & 7.6 & 40.0 & -0.48 & +9.58 \\
+ & 50\% & 5.8 & 35.0 & -0.81 & +9.69 \\
+\cmidrule(lr){1-6}
+\multirow{3}{*}{Kernel PCA} & $k-1$ & 53.8 & 75.0 & +26.59 & +15.27 \\
+ & 25\% & 44.4 & 70.0 & +19.51 & +10.71 \\
+ & 50\% & 34.8 & 55.0 & +15.26 & +10.42 \\
+\cmidrule(lr){1-6}
+\multirow{3}{*}{VAE} & $k-1$ & 43.4 & 70.0 & +20.48 & +14.28 \\
+ & 25\% & 40.4 & 70.0 & +18.97 & +9.34 \\
+ & 50\% & 40.0 & 45.0 & +18.11 & +8.65 \\
+\cmidrule(lr){1-6}
+\multirow{3}{*}{Isomap} & $k-1$ & 49.7 & 60.0 & +23.44 & +12.10 \\
+ & 25\% & 44.4 & 45.0 & +15.52 & +6.44 \\
+ & 50\% & 39.0 & 55.0 & +12.15 & +9.54 \\
+\cmidrule(lr){1-6}
+\multirow{3}{*}{MDS} & $k-1$ & 34.2 & 35.0 & +14.17 & +9.45 \\
+ & 25\% & 7.0 & 45.0 & -1.08 & +10.61 \\
+ & 50\% & 6.1 & 25.0 & -0.45 & +2.82 \\
+\bottomrule\end{tabular}

@@ -1,0 +1,1489 @@
+{
+  "sources": {
+    "real_figshare_article": 31386421,
+    "rsg_figshare_article": 31383301,
+    "spectf_url": "https://archive.ics.uci.edu/static/public/96/spectf+heart.zip"
+  },
+  "files": [
+    {
+      "path": "raw/real/BreastTissue.xls",
+      "size_bytes": 87040,
+      "sha256": "ff4a595fe929294e904db1d28bdc95b9a08d31eda7dacdaa7cefbbef2c13d86d"
+    },
+    {
+      "path": "raw/real/clean1.data.Z",
+      "size_bytes": 110731,
+      "sha256": "20a4f24d100de12d932a666012eb54fc95fa76f1b5569f4bfccc63fa1c7cdaa7"
+    },
+    {
+      "path": "raw/real/column_3C.dat",
+      "size_bytes": 11796,
+      "sha256": "fb5fc4ae49d9f2586158f3368058309364ec3153954cd2ff01fb15d739fe552f"
+    },
+    {
+      "path": "raw/real/ecoli.data",
+      "size_bytes": 19488,
+      "sha256": "008bd8fbb1d8b34040c3c8c4e987cac2a7ebf116e008b140cc6441be5261ba1d"
+    },
+    {
+      "path": "raw/real/glass.data",
+      "size_bytes": 11903,
+      "sha256": "dd67373f4baf2807345df02cbfef2093d342e61ad0d82a4fb79af43ef8ce449d"
+    },
+    {
+      "path": "raw/real/haberman.data",
+      "size_bytes": 3103,
+      "sha256": "b4b7a32586a5668f9f4d6dc8be9d1bc8cd4822523affb1f6b5bfc350681ef3e2"
+    },
+    {
+      "path": "raw/real/ionosphere.data",
+      "size_bytes": 76467,
+      "sha256": "46d52186b84e20be52918adb93e8fb9926b34795ff7504c24350ae0616a04bbd"
+    },
+    {
+      "path": "raw/real/iris.data",
+      "size_bytes": 4551,
+      "sha256": "6f608b71a7317216319b4d27b4d9bc84e6abd734eda7872b71a458569e2656c0"
+    },
+    {
+      "path": "raw/real/movement_libras.data",
+      "size_bytes": 256653,
+      "sha256": "97ebdaa6a9b28ab4a2cdd84b14f19a95a7456a46137c362b65a0669eca3c3c4d"
+    },
+    {
+      "path": "raw/real/parkinsons.data",
+      "size_bytes": 40697,
+      "sha256": "a36116c2deac07895b79ce97a2f99a1b3720ac4892995ff5c3b9ccb397ed2bc5"
+    },
+    {
+      "path": "raw/real/segmentation.data",
+      "size_bytes": 34842,
+      "sha256": "ed5b5aee8081bbe875357149f73f50d7085e22cc0897f5b52eb7b52fea969a5b"
+    },
+    {
+      "path": "raw/real/segmentation.test",
+      "size_bytes": 345084,
+      "sha256": "2e9e966479d54c6aaec309059376dd9c89c1b46bf3a23aceeefb36d20d93a189"
+    },
+    {
+      "path": "raw/real/sonar.all-data",
+      "size_bytes": 87776,
+      "sha256": "e90434cdbf00fcf93ffa911fe447ae25606979658e60f1d32e155c3b5240234d"
+    },
+    {
+      "path": "raw/real/spectf_heart/SPECTF.test",
+      "size_bytes": 33459,
+      "sha256": "467a65c81e14a71c029fa58bf9350ecdf28ff072303b99a832e8606e193a3882"
+    },
+    {
+      "path": "raw/real/spectf_heart/SPECTF.train",
+      "size_bytes": 10797,
+      "sha256": "9c837e4fd4b7931d9be5304989e39f284f35f767518ffd4dfd42a6a519a9f30c"
+    },
+    {
+      "path": "raw/real/spectf_heart.zip",
+      "size_bytes": 25866,
+      "sha256": "24409e8bd112d372ec993304f029d61e5d2daa2de091399e2c3f84eed4f021ce"
+    },
+    {
+      "path": "raw/real/transfusion.data",
+      "size_bytes": 12843,
+      "sha256": "96c8e1091b9c037bcaf25a19b24b49d07771cd88689ffd273e056e9e8845ffe7"
+    },
+    {
+      "path": "raw/real/vowel-context.data",
+      "size_bytes": 73565,
+      "sha256": "1e5c40bdd0b6705c75586eb23f5d9c3078e9588f48bc5c2c98da219fe83fff29"
+    },
+    {
+      "path": "raw/real/wdbc.data",
+      "size_bytes": 124103,
+      "sha256": "d606af411f3e5be8a317a5a8b652b425aaf0ff38ca683d5327ffff94c3695f4a"
+    },
+    {
+      "path": "raw/real/wine.data",
+      "size_bytes": 10782,
+      "sha256": "6be6b1203f3d51df0b553a70e57b8a723cd405683958204f96d23d7cd6aea659"
+    },
+    {
+      "path": "raw/real/winequality-red.csv",
+      "size_bytes": 84199,
+      "sha256": "4a402cf041b025d4566d954c3b9ba8635a3a8a01e039005d97d6a710278cf05e"
+    },
+    {
+      "path": "raw/real/xaa.dat",
+      "size_bytes": 6140,
+      "sha256": "091ec73ae54031aea8432d00caaef101a445eae13196039db9079b0eac13331d"
+    },
+    {
+      "path": "raw/real/xab.dat",
+      "size_bytes": 6175,
+      "sha256": "3fbc55ac03592425521df18d59ba2ed7ddca626b22f84f5fc3253ebda6b82145"
+    },
+    {
+      "path": "raw/real/xac.dat",
+      "size_bytes": 6150,
+      "sha256": "43536f3aadb2a285fa2ba6e13dacc7013c2298fbd728f011e88669bb44856b8d"
+    },
+    {
+      "path": "raw/real/xad.dat",
+      "size_bytes": 6182,
+      "sha256": "371b0de9ba3564d8220d8ad17c5f2f886bafebd2c486de1b0273ceb0c24d3035"
+    },
+    {
+      "path": "raw/real/xae.dat",
+      "size_bytes": 6174,
+      "sha256": "503f9c87feb46dfaab6e3c4275e121640a39c0b30b29f120e679ce8e3fbc7be2"
+    },
+    {
+      "path": "raw/real/xaf.dat",
+      "size_bytes": 6193,
+      "sha256": "460e14ec4746a1464d7a03671e09310695c348d6831452cb53172734a6a70531"
+    },
+    {
+      "path": "raw/real/xag.dat",
+      "size_bytes": 6158,
+      "sha256": "c279f285c353beaa661168e68feeac726cd446f076f717662635267d89006601"
+    },
+    {
+      "path": "raw/real/xah.dat",
+      "size_bytes": 6178,
+      "sha256": "467735394d1a058e15da81d51fd8e1147d425e7f53392ac6b8e730a34a02049e"
+    },
+    {
+      "path": "raw/real/xai.dat",
+      "size_bytes": 6167,
+      "sha256": "feba2f3aad6db050bc7acbd224cd4e0d32846865ab5cfc53cc59baea2e1ff484"
+    },
+    {
+      "path": "raw/real/yeast.data",
+      "size_bytes": 94976,
+      "sha256": "7cf61776fc04f527f93bf57a327b863893a1225d82df02d457e8950173218258"
+    },
+    {
+      "path": "raw/rsg/C50F50N2Ne50A1.29677321133R0.txt",
+      "size_bytes": 1071631,
+      "sha256": "80271a77a8fd0477fb9e014175e7e66ed15f6830933f9bac164fd316ad6a6dda"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne100A1.67906577407R0.txt",
+      "size_bytes": 88098,
+      "sha256": "1eb614e2daa94bd5f174d97a3605f1b3cbfc59d6fdeb60431f26d96e94d0dd90"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne100A1.67906577407R1.txt",
+      "size_bytes": 87259,
+      "sha256": "1c3e43e72f6e027286876a96879d45970f0d0759bd0a31eaae32b9df87642f3f"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne100A1.67906577407R2.txt",
+      "size_bytes": 88443,
+      "sha256": "1baff9c5b40d0108bb97b50222fa0c476149a4ac219c4f66b3e1c0c60906c6d6"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne100A1.67906577407R3.txt",
+      "size_bytes": 88103,
+      "sha256": "19b4a81bdfb80cbd69efaafa34caec5bf0e6b0ca0c0045fa026c2f4710f27259"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne100A1.67906577407R4.txt",
+      "size_bytes": 87504,
+      "sha256": "96e855a4fa3d86cab3d161f92f568633ec963ac3cbfee7aac2d51e10cb0295ac"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne100A1.67906577407R5.txt",
+      "size_bytes": 88414,
+      "sha256": "e64c213b0080b076732a74fd690952c31c53bee3370c45eea3c172811299fa4a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne100A1.67906577407R6.txt",
+      "size_bytes": 88094,
+      "sha256": "97208975b8ab7e410be3a9a9d61c0fe4e3b0df46e5ddb150256ad8c59093b35a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne100A1.67906577407R7.txt",
+      "size_bytes": 87980,
+      "sha256": "cfcc7688ead2e46aa5ad827db10db6f3a2e7f6fdf5063bc3759a62c3b587a0ad"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne100A1.67906577407R8.txt",
+      "size_bytes": 87860,
+      "sha256": "cca30ba2b3ecf08f9252f99742054d97d4b831f956fa2a710c923adda6154710"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne100A1.67906577407R9.txt",
+      "size_bytes": 87929,
+      "sha256": "e7966b1363b18ba74e68f08089abe479c1adf085aaecf332dfb707020488bee2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne50A1.75278061509R0.txt",
+      "size_bytes": 43902,
+      "sha256": "1b24c24b0b7162058b01e413d540a1e216bff907f87b12759e2f7bfd569bfe62"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne50A1.75278061509R1.txt",
+      "size_bytes": 43968,
+      "sha256": "08ab70be87de48a3878cd27383b9e7c20c2c657807f58e963cb4cc227ed2b9a6"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne50A1.75278061509R2.txt",
+      "size_bytes": 43889,
+      "sha256": "ec72dc569070bf3630118b1cba25d90474a26c612f388a95f7812a4dbe697031"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne50A1.75278061509R3.txt",
+      "size_bytes": 43833,
+      "sha256": "92a395769abf2b09c9735c6795d3d34f32704483b1b24179694207e5e674937e"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne50A1.75278061509R4.txt",
+      "size_bytes": 44100,
+      "sha256": "d106bfcfc5c0b77b1088188ebc0063fa9c400faafbd3e5031f02c91defe04256"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne50A1.75278061509R5.txt",
+      "size_bytes": 44130,
+      "sha256": "ddeffc324d6ff404b401761fbbd01fa6bc0ed2bde2acb412fcf48ecfc353f8f6"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne50A1.75278061509R6.txt",
+      "size_bytes": 44332,
+      "sha256": "8b76237dc30062147e8db699f6879bddff786385d3e951b9d383bec15e423084"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne50A1.75278061509R7.txt",
+      "size_bytes": 43699,
+      "sha256": "1c90849aed42bbea5a0e5b5b734f9870f9d55c116aaee989cee3b8fc1be53aa5"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne50A1.75278061509R8.txt",
+      "size_bytes": 43928,
+      "sha256": "f2af6319b083e2ea8b0bea88ea81da8b3638e2ebeb41a0e675732546e42e4901"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne50A1.75278061509R9.txt",
+      "size_bytes": 44122,
+      "sha256": "49df653bbf37d7cc19890b5d4fa62bed43cf719cd89f582d7138ce94d12bc48c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne5A2.0330517838R0.txt",
+      "size_bytes": 4380,
+      "sha256": "3d3b54f159f07b3dc39375e369b1f6b18eec7f0aeea3f494505d7f1d0518b1f0"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne5A2.0330517838R1.txt",
+      "size_bytes": 4415,
+      "sha256": "ea559d33950ed27b278418a88deb3801b716433751f96a2f5ddb7ebc220cc822"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne5A2.0330517838R2.txt",
+      "size_bytes": 4425,
+      "sha256": "000feabc18b40ed7d0b9ef7ce98e62753d5e76276a5d88a444e343b90c8220a2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne5A2.0330517838R3.txt",
+      "size_bytes": 4434,
+      "sha256": "13ac3b972770e393edca56c8dd67bbd95ff73dc6384c0b1bd8503986da5056e6"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne5A2.0330517838R4.txt",
+      "size_bytes": 4416,
+      "sha256": "831ea11db9199ea41e376a28979a4f91fdba9422f3fde9b72e6259b3120ba85a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne5A2.0330517838R5.txt",
+      "size_bytes": 4428,
+      "sha256": "c49fe07e8ead8d637b1428dacb1741838d19dafe00bbb5681f30755bb2df9996"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne5A2.0330517838R6.txt",
+      "size_bytes": 4381,
+      "sha256": "87b92f733ccefdf08c6d9b995f4dd3f2b568d73951fd5f6ad17be4677e4cfb31"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne5A2.0330517838R7.txt",
+      "size_bytes": 4404,
+      "sha256": "7dfacd4f9c392938e3d742ea99a89b903a241addc76e89a9a695f337a49fabcf"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne5A2.0330517838R8.txt",
+      "size_bytes": 4394,
+      "sha256": "6704afddcaf372b2eee3ddf1adb52be8876a583eca505e97329b28a71340dfb2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_10Features/C10F10N2Ne5A2.0330517838R9.txt",
+      "size_bytes": 4373,
+      "sha256": "2de042b99e3124e1c220734a2a3bffbdf4eec9a8c709ffc554bcb11121080ad8"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne100A0.94361410145R0.arff",
+      "size_bytes": 1909660,
+      "sha256": "82bad95a986eef92600bcee6a8488f46f5cc9744cb32d61ba8883cd48c3459db"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne100A0.94361410145R1.arff",
+      "size_bytes": 1909783,
+      "sha256": "b55c2cb8cb6f78206874e5ec36babd9e1a6bbf4bb8b07e1574e70b5c03639690"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne100A0.94361410145R2.arff",
+      "size_bytes": 1909025,
+      "sha256": "9a2f7db64f4cecf778c5f44a8076545e20ad8421c1ff4115c381e74bba8a3140"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne100A0.94361410145R3.arff",
+      "size_bytes": 1909566,
+      "sha256": "9ebf5969a2e7890524b03d6c51af49dc2ed107439e1a7adb565d4f50dbb2cdaa"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne100A0.94361410145R4.arff",
+      "size_bytes": 1907548,
+      "sha256": "ee5b390a0af32f73453904c94195933759d578a47934eaf673e9550ad8d9e92d"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne100A0.94361410145R5.arff",
+      "size_bytes": 1907499,
+      "sha256": "beff51de5603dc102dd5cb79ecbec8ab9cba8c15c4f94d8550dc9be302b353a8"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne100A0.94361410145R6.arff",
+      "size_bytes": 1908971,
+      "sha256": "beff6505fb83824109fc149c2d30b94f402ca6bf48d2863f2da88aca4c61e1a4"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne100A0.94361410145R7.arff",
+      "size_bytes": 1909776,
+      "sha256": "215d7ec4389249ae87b8f1ee44bef92e063f617e05e5f21d8999162936196373"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne100A0.94361410145R8.arff",
+      "size_bytes": 1910055,
+      "sha256": "a7d82b8506f4a33365a41e159b262dab0638983ec0bada691e78b9fb46d3b2d6"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne100A0.94361410145R9.arff",
+      "size_bytes": 1908654,
+      "sha256": "9d1b44aed7f775aca7f750cba8626232e4fa2c94125fd70ea6bbae39f7e8ec19"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne50A1.08528937343R0.arff",
+      "size_bytes": 957916,
+      "sha256": "e970e853fab0d90fa294fc0260ff2f1b86ec004fa9d398307c3993380f74aeff"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne50A1.08528937343R1.arff",
+      "size_bytes": 956525,
+      "sha256": "81069ee7f303ad15eb73fdd17523ac4b87ee874fe0a77b509e2ba9e396db96d8"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne50A1.08528937343R2.arff",
+      "size_bytes": 957204,
+      "sha256": "c0dd95416f3942ee1f14df460af3c20a1b4bf43b864bf1ae62de6a89b09bad4a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne50A1.08528937343R3.arff",
+      "size_bytes": 957553,
+      "sha256": "f2284495f44e91309ef98b1d0be0ab99ee265a4296c16c0715020411ae6e56ce"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne50A1.08528937343R4.arff",
+      "size_bytes": 957004,
+      "sha256": "599458a639eeac6b21ff0d2bbe7ca25080aa4b36043d7888a45177dafec884ad"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne50A1.08528937343R5.arff",
+      "size_bytes": 957416,
+      "sha256": "ca17fb48204548aca6e9fa5e52229dd8f90a4ac0ee8de4367acd06f169339c78"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne50A1.08528937343R6.arff",
+      "size_bytes": 958295,
+      "sha256": "750d253c67be6927b44674480b2ba6d2696d9b0e5267413aeeb7f401eb445202"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne50A1.08528937343R7.arff",
+      "size_bytes": 956814,
+      "sha256": "7eebf088761e7e73e05cceb0a74a560285167cb693707170d02b048886062378"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne50A1.08528937343R8.arff",
+      "size_bytes": 957253,
+      "sha256": "45aefd3e6e5799874b8ff468827d5b605eb7edde48112304d11d74cd362a5988"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne50A1.08528937343R9.arff",
+      "size_bytes": 957798,
+      "sha256": "622897518179a2c2f7c7a079ad936c98b6306166084dd343bed9cdf39da40ec3"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne5A1.47308741295R0.arff",
+      "size_bytes": 101087,
+      "sha256": "26d7b2c048f0ded2ebba221a5a6f8d2a6a0419a558647a09521643c2fe379cc2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne5A1.47308741295R1.arff",
+      "size_bytes": 101154,
+      "sha256": "11df09e13a5d85b54c856135b9b1db4350d18e4d3acc27f4da09d291e91277b2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne5A1.47308741295R2.arff",
+      "size_bytes": 101063,
+      "sha256": "f0276e57e874b437781e8d589f0649b57ebc748b05ecc7a09878f8982c4dfaf4"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne5A1.47308741295R3.arff",
+      "size_bytes": 101028,
+      "sha256": "9db31085afefd871e59f2d1fffecc7237c83a6bce9d148d0854785bfd0d2bac6"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne5A1.47308741295R4.arff",
+      "size_bytes": 101066,
+      "sha256": "42ca07f7f6a5c2a869dd1eb89af7ff0486d4343cf468537007c1d7c338f837a2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne5A1.47308741295R5.arff",
+      "size_bytes": 101175,
+      "sha256": "7ce5d30645f468e205e261a7850756f3a6abfc5ea68aeca9281196cdce95fc9b"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne5A1.47308741295R6.arff",
+      "size_bytes": 101125,
+      "sha256": "85fd0c3d3c271a4780872756fa6530abddd56d4a143ab795f1dc93c8d0898e54"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne5A1.47308741295R7.arff",
+      "size_bytes": 101133,
+      "sha256": "3c40648ee3bf3db0a9169189930aba69b9193033fd9d2301295450b91893f40d"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne5A1.47308741295R8.arff",
+      "size_bytes": 101108,
+      "sha256": "4234f2ad5e3967f7e78d40d9c46a3063b1aa2bce82bc99b26109835b43f523b2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_200Features/C10F200N2Ne5A1.47308741295R9.arff",
+      "size_bytes": 101161,
+      "sha256": "37c82312661a796cf1f66d64269944180872109a6cddf733405fbbe9c955fb0c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne100A1.05747277742R0.txt",
+      "size_bytes": 427164,
+      "sha256": "4aa9bbe58f480837499a877ed66e28db08a1a064008c8d78d2f1f25a338a1f2a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne100A1.05747277742R1.txt",
+      "size_bytes": 427133,
+      "sha256": "83fd31be2397d27dff7b4388234f246a949c39d44301c87d839465e0084543de"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne100A1.05747277742R2.txt",
+      "size_bytes": 427815,
+      "sha256": "c4b427f6bf0a14879f374983d84884dd7b3fd558aee1c6a0ae47e3a1d6e069e6"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne100A1.05747277742R3.txt",
+      "size_bytes": 428378,
+      "sha256": "e49739c14dc0849f34ce69dc94ef176dc93bb76b44da4b793b832d2e629c7ac9"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne100A1.05747277742R4.txt",
+      "size_bytes": 428186,
+      "sha256": "523f10481892c6174c14d79fa357d056253419c93e1817e6faa733e687cda184"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne100A1.05747277742R5.txt",
+      "size_bytes": 427574,
+      "sha256": "034fb5bad1aaf507341931562c038cfbe5d839dffbdef843cd1457d03602642d"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne100A1.05747277742R6.txt",
+      "size_bytes": 429008,
+      "sha256": "8301b4b80d43cc9f8ca91ffbfbf55696b8dad1ac7a81982146a3f9ba90966be2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne100A1.05747277742R7.txt",
+      "size_bytes": 427822,
+      "sha256": "2989d7187b49a47b02a71dea4af92e2b00a7f65cb330868b11b6a74707308c2e"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne100A1.05747277742R8.txt",
+      "size_bytes": 428810,
+      "sha256": "eabfacb8428b0920e312987d1872998035b186c59ebdfcde49237ae3cea76ab1"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne100A1.05747277742R9.txt",
+      "size_bytes": 427625,
+      "sha256": "4302b8a84fce8f88314dcbf774152e0518c14781b78d2378bae4238a3cf7ac5d"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne50A1.15274325985R0.txt",
+      "size_bytes": 214128,
+      "sha256": "466988857daf5544de50e830cf2492c85bf9a37d1f02e1e9f744c165f9c9aab5"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne50A1.15274325985R1.txt",
+      "size_bytes": 213890,
+      "sha256": "80b3dc1fa272362c6da4e7ac9934eb51227dc06a4e4f4c95cc59ffe571311c55"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne50A1.15274325985R2.txt",
+      "size_bytes": 214232,
+      "sha256": "a451fd967d31247f80e4d5037ad2742ce6e41fd8a31c975f827b8d5ab6bbdca8"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne50A1.15274325985R3.txt",
+      "size_bytes": 214268,
+      "sha256": "495589ac8fb7190c56544d4ef8e076525117ae45916edd37e7fce5cb98965c62"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne50A1.15274325985R4.txt",
+      "size_bytes": 214297,
+      "sha256": "4cb062353b5dcd663df6dc9e0e143e2a8be0de03fa099510805f7b19f92a331f"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne50A1.15274325985R5.txt",
+      "size_bytes": 213805,
+      "sha256": "d6803e691c70e2a73ed0bef34eb17104f4292ae2af29a582302383a0489fb2cc"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne50A1.15274325985R6.txt",
+      "size_bytes": 214147,
+      "sha256": "e86e65c4a972237acc18fe3b4a4a0b0c32e8b09bbc889f6979b8fb6db8358707"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne50A1.15274325985R7.txt",
+      "size_bytes": 213826,
+      "sha256": "9a2db993c4f1ea96a59e5d7be08b2d32fbec326da405620976ea6248b2ee14bf"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne50A1.15274325985R8.txt",
+      "size_bytes": 214282,
+      "sha256": "8b8afd39041a4d8e9d58f56084d2bda966a695c9ad9e2f5b0c0bf89d95ac9d8d"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne50A1.15274325985R9.txt",
+      "size_bytes": 214152,
+      "sha256": "2e05411ddf8cc4d22e49bc3b8e4f96f4c5cf068c75f9ce5239954b9c32999d16"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne5A1.44224957031R0.txt",
+      "size_bytes": 21455,
+      "sha256": "9df68bd3e65f9026ac836b8f83fbcd080c3dcb4ecae44877a96cba683a4ef389"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne5A1.44224957031R1.txt",
+      "size_bytes": 21464,
+      "sha256": "ea70feaae33eb9785dd8b8c078bf0622bb2af7afb76237a4881ab47a15d9a2ef"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne5A1.44224957031R2.txt",
+      "size_bytes": 21371,
+      "sha256": "cef1d61a265476909cad4fa8412917f9755e1510bd554e9a50ea99e836944e94"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne5A1.44224957031R3.txt",
+      "size_bytes": 21475,
+      "sha256": "c124751fc88a235c38f285467e0fcf9672f6084fa6f74bbe34e8d8c54d0bc931"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne5A1.44224957031R4.txt",
+      "size_bytes": 21368,
+      "sha256": "bba82c0b29c6abc386356329b8962b3a7a00ec79e2450210822fb9e216def78b"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne5A1.44224957031R5.txt",
+      "size_bytes": 21386,
+      "sha256": "c5d5bc50fc15d4dab1088a9fd21161503e0016abd453b45f9953051874811b3b"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne5A1.44224957031R6.txt",
+      "size_bytes": 21385,
+      "sha256": "6fbaf4cda50ed7c0bcc5301c9548cdcfb019dc0afbc19edd4e93202f44a08f37"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne5A1.44224957031R7.txt",
+      "size_bytes": 21413,
+      "sha256": "d451542ba3d79ac94ef98d90b841ea2f82ba1296d4209d213414a9a32c3ed2f9"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne5A1.44224957031R8.txt",
+      "size_bytes": 21332,
+      "sha256": "0dde79eb7553ec91b8e94bf270a1d5933d15bcc9d547a72299fd6f7b84614d6e"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C10_50Features/C10F50N2Ne5A1.44224957031R9.txt",
+      "size_bytes": 21349,
+      "sha256": "44023e68214931a7b0c8d3b7f0a5f4483532cd8b73205edac4a498b0ec14ebf4"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne100A1.29632859131R0.txt",
+      "size_bytes": 17669,
+      "sha256": "224bd447265be8fc900c6649a18c2f7dc4283b7d7deff02ff2262e2b63a6af9a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne100A1.29632859131R1.txt",
+      "size_bytes": 17700,
+      "sha256": "cb81a4c4ccaf117fec4e368611c3cb0a6b0277001c206c09812b670ec0f4dc3f"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne100A1.29632859131R2.txt",
+      "size_bytes": 17702,
+      "sha256": "9cb534e8e0bc03ef8f8bcd6a50bd5cd697f94f63bbd210d9b232362fdfca3d20"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne100A1.29632859131R3.txt",
+      "size_bytes": 17472,
+      "sha256": "62456201b10dda3c5ab240634de46329bbfe287e5cbd3f7fc8379cccd00acdbf"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne100A1.29632859131R4.txt",
+      "size_bytes": 17709,
+      "sha256": "2fec15e08d8a5d1f6326dffaadc29b72f808b7ebf531427f777820375e8adb9d"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne100A1.29632859131R5.txt",
+      "size_bytes": 17506,
+      "sha256": "c27d308f67d8714772b104962ebf6a8627fe0f22ea71a21bfc3326ae42bbff63"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne50A1.16090359317R0.txt",
+      "size_bytes": 8769,
+      "sha256": "f79fac27b349859e2407c6317ffebae8afdef78e65dbb50c6154e62351a14daf"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne50A1.16090359317R1.txt",
+      "size_bytes": 8894,
+      "sha256": "0235e0ec5ad9e3ce27cb24086cc8d2342d32970e345b90cf38a59e772abb9dc2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne50A1.16090359317R2.txt",
+      "size_bytes": 8668,
+      "sha256": "1bd23beccf0f3e111e507c2631bd425869d93b5640462611747996ea7ceaca1d"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne50A1.16090359317R3.txt",
+      "size_bytes": 8849,
+      "sha256": "e8437f3d5012a845fe77e9bf465c7af0a029a69cdf9f012249d337db635f8e32"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne50A1.16090359317R4.txt",
+      "size_bytes": 8808,
+      "sha256": "0dd72f6001e4c455ad73f075922612ef32a00c2270b55999910d1651c3b7413f"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne50A1.16090359317R5.txt",
+      "size_bytes": 8674,
+      "sha256": "3160fa1e5b01d424457f6084ddce7831b8a491640827a60fff8f0f2dc6e121f9"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne50A1.16090359317R6.txt",
+      "size_bytes": 8787,
+      "sha256": "fb3d5647dbd53ee1b27f87057e92dcfbebbabbc7816f9eb2ed53c17752a9bc39"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne50A1.16090359317R7.txt",
+      "size_bytes": 8918,
+      "sha256": "a724604668cd48d5b2e68dcba51c7a645d748c2d0f00e5bcf2a7795c5560d6d7"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne50A1.16090359317R8.txt",
+      "size_bytes": 8702,
+      "sha256": "5ad17b99428fed7a69241aae46bddd13ac6fa010dca00f9f5159f1b994e12f66"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne50A1.16090359317R9.txt",
+      "size_bytes": 8713,
+      "sha256": "5cd3bc3e8c126e1506630b25cd7e51dddd969384cb6600bf840ac8b8138b76b6"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne5A1.47689559378R0.txt",
+      "size_bytes": 871,
+      "sha256": "94cf9ee1db87d70142dbbac69f19f65aa1605b9d5bdf166174991bb0c72a6c5b"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne5A1.47689559378R1.txt",
+      "size_bytes": 873,
+      "sha256": "a7edb84e9050a8b58ca93f6eb9cf817aab7e16dc952f8e4540a3b30d5eb28cd4"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne5A1.47689559378R2.txt",
+      "size_bytes": 891,
+      "sha256": "f235127cc03b718612638db9053ac490b0579dcbee7db90a7e8e829bd9ac7631"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne5A1.47689559378R3.txt",
+      "size_bytes": 884,
+      "sha256": "4d6d984a114861a69c0eebf9a31a230f820391f7ad25a68c57b8025a4c0e1529"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne5A1.47689559378R4.txt",
+      "size_bytes": 884,
+      "sha256": "771ec5860d88c3b566bfd5b16f99664b945197cb954dc0ccc9a91b3298eca51b"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne5A1.47689559378R5.txt",
+      "size_bytes": 875,
+      "sha256": "22018ab7c370bc448d606c66e936cd6f5eea1344aa22a17b76deae146529abe3"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne5A1.47689559378R6.txt",
+      "size_bytes": 874,
+      "sha256": "9c741efa1171f2dc9488cb55535c5ea9add3c0438f1eab8127cdabc26679d994"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne5A1.47689559378R7.txt",
+      "size_bytes": 879,
+      "sha256": "4f07f881142e538c9105a7503ac1ad7e9d5bd00f717c66226bba84650d9fbe81"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne5A1.47689559378R8.txt",
+      "size_bytes": 874,
+      "sha256": "f3a212eb93105b5e8a58e44aa69f7b8d2812a4a321f42ae21c7113923b3adee1"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_10Features/C2F10N2Ne5A1.47689559378R9.txt",
+      "size_bytes": 889,
+      "sha256": "0824cd643df2770dc5f18432b272e123c5215d89ea6ecd9944a7949f79fa9424"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne100A0.843361846279R0.arff",
+      "size_bytes": 387258,
+      "sha256": "97929ece07effd9282d09e25e6dadab1d65a6b9cf855121159f7948e4384e19c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne100A0.843361846279R1.arff",
+      "size_bytes": 386084,
+      "sha256": "f9324c323b8255ddd77fdf6eea2611cd8ec941b5f52724c45a3b897c4733bd89"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne100A0.843361846279R2.arff",
+      "size_bytes": 387428,
+      "sha256": "9597e68a8f91b07a779cf589ecaabb573e4361bf158cb70f0750562ff8a45044"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne100A0.843361846279R3.arff",
+      "size_bytes": 387029,
+      "sha256": "dbdc2a3067a2770a36b94f7fc58cc518e441c9227c89e723536c2d4107909efe"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne100A0.843361846279R4.arff",
+      "size_bytes": 386847,
+      "sha256": "b1f178ebcb11c6d518d8bc00a32529255aa3135a66d2ff33321d5d9db3009940"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne100A0.843361846279R5.arff",
+      "size_bytes": 386263,
+      "sha256": "520d9ea07959bc1687857c318e1f78583f63536647034680cdeaf2de4312787b"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne100A0.843361846279R6.arff",
+      "size_bytes": 386562,
+      "sha256": "5668b16a9d65caf91ad180e2f6256a0d488ee9c3dd55173fdd1aade0fff6103e"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne100A0.843361846279R7.arff",
+      "size_bytes": 387129,
+      "sha256": "c319bb66edb85fd5b318120f7b4a33064a020ec7bc7d4239a1622ffed9a3240a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne100A0.843361846279R8.arff",
+      "size_bytes": 386397,
+      "sha256": "8599c1169d33e9dcc5b1b1ef9b16d97b157d03566f110f27ea61ddb9fa22bc74"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne100A0.843361846279R9.arff",
+      "size_bytes": 386982,
+      "sha256": "6f148b6998562145b48d8450fd52fe2695d64a4cb5dc8d556124b3a29302e26f"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne50A0.868795011768R0.arff",
+      "size_bytes": 196034,
+      "sha256": "bbb4aa3910d26abc914348cfd19ff3e50d8f1222b596f5ceb713d721b3578f9a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne50A0.868795011768R1.arff",
+      "size_bytes": 196324,
+      "sha256": "4b3c8911b69bf93fffa132421f7d3ee9b04c9aad18cc1258bc686b18b483b502"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne50A0.868795011768R2.arff",
+      "size_bytes": 196051,
+      "sha256": "44dd4a34e107b67d4208a326e1ae6d02c42e6807e4a556dc16d88ad9db2f2186"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne50A0.868795011768R3.arff",
+      "size_bytes": 196383,
+      "sha256": "b88a19ecedb8b2775059c9106ec5f62866f8799291994ee1fa83ed01932b7570"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne50A0.868795011768R4.arff",
+      "size_bytes": 196210,
+      "sha256": "e8e31cfd5bf14d3952b4327812976529c2fd023dbc36561263436b5e5c1ec1b6"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne50A0.868795011768R5.arff",
+      "size_bytes": 195952,
+      "sha256": "51794ac834081b3b534baf0c9b9b852ec411cbaa00de4ab40f00542cb54276f5"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne50A0.868795011768R6.arff",
+      "size_bytes": 195908,
+      "sha256": "32ae79c56729fbb2b31fb65f334e13a59929b9f77406163724d0aa2f565b2ffb"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne50A0.868795011768R7.arff",
+      "size_bytes": 195812,
+      "sha256": "4225938e9f3026a4c0f7368fa3f0b8555c19f8370ebe2522bb8e93800b54c71e"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne50A0.868795011768R8.arff",
+      "size_bytes": 196277,
+      "sha256": "a0f8ae6c4291931cd365418a42760e781b2ddae83416c537bf713a32024595bb"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne50A0.868795011768R9.arff",
+      "size_bytes": 196429,
+      "sha256": "77f15427e0d24fd9459415b61bb50574d2b416d1e61306fb15c1bb87f80816e7"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne5A1.14354349446R0.arff",
+      "size_bytes": 25020,
+      "sha256": "44d001737c8f7bf3f5bb5c451d677738a3307d5a0906ef389429cce5a3081c1f"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne5A1.14354349446R1.arff",
+      "size_bytes": 24965,
+      "sha256": "4bf089f8632c39e89d2a9f0ee1358175b1516e5b6eb938746005c27d9608fac7"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne5A1.14354349446R2.arff",
+      "size_bytes": 24980,
+      "sha256": "9ec8db56137d9c6927aa05e1257176420534b7c91447139f7639e280efc20d3f"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne5A1.14354349446R3.arff",
+      "size_bytes": 24986,
+      "sha256": "42040aa0df6d254b075c6f5fc5059dd530793f5af916cdd74b208a39af7a332c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne5A1.14354349446R4.arff",
+      "size_bytes": 24940,
+      "sha256": "68a48b5ca628545d7d8eb067afc2d4df76acb6a66e8cd855040f33d3ab95b12f"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne5A1.14354349446R5.arff",
+      "size_bytes": 24954,
+      "sha256": "13199b92334286b1577303e44cc785f6702f469e4cd6842cf6acd77e34c7600b"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne5A1.14354349446R6.arff",
+      "size_bytes": 24993,
+      "sha256": "6826689303af49bd6863c29fd951a6bf7af50c2816a89cae4e62a4f3db0d12d3"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne5A1.14354349446R7.arff",
+      "size_bytes": 24971,
+      "sha256": "631dbbee3d8f987bd00e69bc77e3dba76a2a146be9a055e1c7f0f2d2342056ca"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne5A1.14354349446R8.arff",
+      "size_bytes": 25019,
+      "sha256": "f05a27de1a6e0a1d4500962b67913eac8712744075a85026982108fe113f5965"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_200Features/C2F200N2Ne5A1.14354349446R9.arff",
+      "size_bytes": 24990,
+      "sha256": "3d59408a1c5b533a9b2de17833c5fbc6f734b21a6dbdb7395f06edebf52e60fe"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne100A0.93035144234R0.txt",
+      "size_bytes": 85162,
+      "sha256": "58fdc4da8004392285cafa7e40f5a73fe4927f41621beee2b164cc8517fd6323"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne100A0.93035144234R1.txt",
+      "size_bytes": 85605,
+      "sha256": "e9e5177ccb2840f85f2a5f1cfb38db261ad8060ecb01b9b10495d713b6f78b56"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne100A0.93035144234R2.txt",
+      "size_bytes": 85420,
+      "sha256": "3cac3b8fea5e8613bdc747d470c7f39163c1576593e365463c30236a39c9ba06"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne100A0.93035144234R3.txt",
+      "size_bytes": 85980,
+      "sha256": "1c423f7982754dcdd43ef67fa2f8a1272e6202f697f6ad943f1203bf0c37f9ae"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne100A0.93035144234R4.txt",
+      "size_bytes": 85516,
+      "sha256": "e3c50446463b194b68b510028d4aeb09c3bd0a11c432d5c83ef6068c79a93498"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne100A0.93035144234R5.txt",
+      "size_bytes": 85632,
+      "sha256": "ccb13ccaec410de2fbbd42b7bc32d102e19b34a471894ba0fd15cf48c0db7d82"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne100A0.93035144234R6.txt",
+      "size_bytes": 85433,
+      "sha256": "0b54882f8d219ebba14fd2513fcfeb6a87896413cd33edbb84f455876cda9a75"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne100A0.93035144234R7.txt",
+      "size_bytes": 85097,
+      "sha256": "95de483594a82e3eae6376817d82a905876466738a891c70bb669bb153f99834"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne100A0.93035144234R8.txt",
+      "size_bytes": 85178,
+      "sha256": "ba280e427ba8cfb586047586f66698b707ba8f6f96fd406ede20213dd2203481"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne100A0.93035144234R9.txt",
+      "size_bytes": 85533,
+      "sha256": "06ba8e70bd4a45785148a9bc61ba0eef28a83c9fe52f227b7a93e8e38b9da705"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne50A0.928565544565R0.txt",
+      "size_bytes": 42746,
+      "sha256": "022aae063c0ef9ce34939da3741323a6557398d965e422300d00a8af1d1101d8"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne50A0.928565544565R1.txt",
+      "size_bytes": 42689,
+      "sha256": "0bf51b35e9d461334ec88207acd7618c9cff6d0ec57c9d74ea6175cc950be495"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne50A0.928565544565R2.txt",
+      "size_bytes": 42989,
+      "sha256": "f3d12fa14b3204aeb3d4f6cfe487ae5e1834e493684a8862a854e5353774c067"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne50A0.928565544565R3.txt",
+      "size_bytes": 42602,
+      "sha256": "bc9e3b2813c7439bf64e89c362b43231496c51feff95587889306bd9b554eba5"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne50A0.928565544565R4.txt",
+      "size_bytes": 42577,
+      "sha256": "86b4ceb71b86bf3dd6f25ffaba6527c04a58b3526d3018d8664a2722828db666"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne50A0.928565544565R5.txt",
+      "size_bytes": 42839,
+      "sha256": "add581f9a925c51397f77b95689c05ed5fe8392145d71bf59f5492786c2c9c7c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne50A0.928565544565R6.txt",
+      "size_bytes": 42612,
+      "sha256": "dbd4ff6da3d731c8582ea37d9ebc2fc63d4bc7904a779cedbcd0dd453b1c51eb"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne50A0.928565544565R7.txt",
+      "size_bytes": 42841,
+      "sha256": "dfec66be9b1a3aabcba19df45cdaa49e9d81631a9383ba8aea73d7afe94383e1"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne50A0.928565544565R8.txt",
+      "size_bytes": 42805,
+      "sha256": "0e05dccbe48c6bb546c07c19bbc4019194634a5874bf461775ec08e2c1dee8b6"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne50A0.928565544565R9.txt",
+      "size_bytes": 42942,
+      "sha256": "e24494d6ad046342f11ceee3c599813225487b78dee145a578592814d34298f5"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne5A1.27469381293R0.txt",
+      "size_bytes": 4267,
+      "sha256": "45a95b5a20a3af3075c5231c5ae5f63579748451424c742fde9f26cf772a63e2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne5A1.27469381293R1.txt",
+      "size_bytes": 4241,
+      "sha256": "f149a139d834e87a1acb9b50f5aea0813b6aaa14f91616a892a714b1fff52620"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne5A1.27469381293R2.txt",
+      "size_bytes": 4292,
+      "sha256": "35c34676967108e789ccf00c2fff5c99cd233495f1eabfa5aba3b9f4b9bb10c8"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne5A1.27469381293R3.txt",
+      "size_bytes": 4285,
+      "sha256": "e35392606a46a6a6ed408c04f556e947e0cf631e61879ed48c94921ae69a0500"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne5A1.27469381293R4.txt",
+      "size_bytes": 4298,
+      "sha256": "0cafa2b19f0bc3f1a4edf6cfb611edd3c5ebf9a30450515b9bcc7e0357e312c1"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne5A1.27469381293R5.txt",
+      "size_bytes": 4275,
+      "sha256": "8f511232b9a6ad2d8f4f2684de9ef75fb6a2e840c375f8ec80bc8f29d6c5b231"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne5A1.27469381293R6.txt",
+      "size_bytes": 4275,
+      "sha256": "e114472096535836966c47e4419582841e53fee52ef61373942fa08b6526794e"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne5A1.27469381293R7.txt",
+      "size_bytes": 4299,
+      "sha256": "df38264c4f309027575f411bcf6e650aaa1beaa54856c8a0ab862bf39fb6150f"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne5A1.27469381293R8.txt",
+      "size_bytes": 4273,
+      "sha256": "0aa729121bf329ca4ce9e7bed378473958e994c85349efef6f11aba4a8123481"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C2_50Features/C2F50N2Ne5A1.27469381293R9.txt",
+      "size_bytes": 4297,
+      "sha256": "89eb74c771c296da4166b074a0e0b380eaa36158f1fa2d78a914ff03718dae3c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne100A2.23085807163R0.txt",
+      "size_bytes": 444570,
+      "sha256": "0f771a2361cd9c966918cd946d17cd54364de5f312909ca1fa0b9937f7cce78a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne100A2.23085807163R1.txt",
+      "size_bytes": 444115,
+      "sha256": "6b7831cd3d080582c5a999f75405ca7c2d42bd351db1fbdc62ba38b594689dde"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne100A2.23085807163R2.txt",
+      "size_bytes": 444543,
+      "sha256": "c9d20a0730e398b757ae8537f7b1a973452aed1c0e960428fdf2c6e6f781019e"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne100A2.23085807163R3.txt",
+      "size_bytes": 443625,
+      "sha256": "274d2eba509bc7b2ba435ca934e68a69bce1554257e5f86bc6d54e4b40066b5a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne100A2.23085807163R4.txt",
+      "size_bytes": 445281,
+      "sha256": "03101aad9afba850769df4924faae2991665a9c3a56f4eb64aa94831ecbf3997"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne100A2.23085807163R5.txt",
+      "size_bytes": 443406,
+      "sha256": "93c61e23c78dbed46927bd58992f9fe75c08a1c8dd2ac4c51e54ba8d3d91f4b6"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne100A2.23085807163R6.txt",
+      "size_bytes": 444631,
+      "sha256": "24726431fefdc508869bb7e89f4751c38bd5bfd518231b924ad818e44a48f77c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne100A2.23085807163R7.txt",
+      "size_bytes": 444034,
+      "sha256": "25eeace37d81b06193ccd3395d7472f65dbc3bbb04d7a2eac3bff5a18a9ca837"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne100A2.23085807163R8.txt",
+      "size_bytes": 444123,
+      "sha256": "c7543edcee3a13f690a3a7b2ab67439b350ce4e7311aa2d262c9d8e20b73087c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne100A2.23085807163R9.txt",
+      "size_bytes": 445066,
+      "sha256": "1fd68a5c44a351548b8760d15d70ea3e8941ac8b6007a6da5c696dde9021c4a9"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne50A2.3011377436R0.txt",
+      "size_bytes": 222205,
+      "sha256": "210a43a3521c8266269029467d745bead537a75eb75426fbab53b885896d034a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne50A2.3011377436R1.txt",
+      "size_bytes": 222391,
+      "sha256": "7d804b8079ca95ecece3341260a223ef43a6be50347138574ea185d63d9f5daf"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne50A2.3011377436R2.txt",
+      "size_bytes": 221813,
+      "sha256": "f6a6d8f46be6852e4e42075616482b6415406711cc6f7dd1edf5140f6f8f2a84"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne50A2.3011377436R3.txt",
+      "size_bytes": 221563,
+      "sha256": "65765f2fde5012998937e8af5f33d5dc4c8ee5840f2117367ceba9c052b13b4c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne50A2.3011377436R4.txt",
+      "size_bytes": 222316,
+      "sha256": "b11561ba1e551c08f191557424bb136cb193a33be28d46befbfb4a6352cc2095"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne50A2.3011377436R5.txt",
+      "size_bytes": 221726,
+      "sha256": "b8b35bf7fe990326f015f99661fe2f5fd1b650d7da7a8e26c6c3d72302e3282c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne50A2.3011377436R6.txt",
+      "size_bytes": 221815,
+      "sha256": "2a8cacf8fdc8d46c9fe8baec576c56836e3ced186a23c025c40f8c756c249175"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne50A2.3011377436R7.txt",
+      "size_bytes": 221965,
+      "sha256": "68e454840de346275f3037784d46bd1448efdd9c95c1153514e1a4fcc6c2be30"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne50A2.3011377436R8.txt",
+      "size_bytes": 222106,
+      "sha256": "adb24332f1df3569557740ec999a1b62cb290d0fc5f27921b3181063bd8436aa"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne50A2.3011377436R9.txt",
+      "size_bytes": 221726,
+      "sha256": "6abc4969d558a628fd0db4f57775eb42c0a952af50c60a6eb2751a463f08adb8"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne5A3.07330196952R1.txt",
+      "size_bytes": 22228,
+      "sha256": "65953351db0b43e2cd79133e02de30d026e40426ac92c959374db83264e57f56"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne5A3.07330196952R2.txt",
+      "size_bytes": 22300,
+      "sha256": "723a488daf19e1559c8b8d2e404fe8150496a5e6fc6513d3861a36d3030eb07e"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne5A3.07330196952R3.txt",
+      "size_bytes": 22236,
+      "sha256": "17e1cb245bd41c9f7beceefa08aceec5487b4ee162508d935daee242df6bb38c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne5A3.07330196952R4.txt",
+      "size_bytes": 22224,
+      "sha256": "909e7ee95b23d58be1986d5d5cc000081614ad5b1595801ebf9511bb67f9f06b"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne5A3.07330196952R5.txt",
+      "size_bytes": 22220,
+      "sha256": "9b40610b808453d314c3dfbdda7b27f92c50e06e9e3f93d78fb182cb01097584"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne5A3.07330196952R6.txt",
+      "size_bytes": 22164,
+      "sha256": "9e29c37a7b7b872eb1fb84841503057ce82f781a8a60dd22473cfa2fff376a91"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne5A3.07330196952R7.txt",
+      "size_bytes": 22203,
+      "sha256": "780388483772a01c205d8d96344f3561010a512f0dd1fbf2982c1916fc83453e"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne5A3.07330196952R8.txt",
+      "size_bytes": 22206,
+      "sha256": "d22993af7a4e80e0b61e0a2fa318feb68cb82515aa41176ead6f279dd5c219ff"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_10Features/C50F10N2Ne5A3.07330196952R9.txt",
+      "size_bytes": 22145,
+      "sha256": "65759f603244608f6d2de4ca278d58675ef876e97ccc03745e7f31c52c430f9c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne100A1.08093981889R0.arff",
+      "size_bytes": 9525110,
+      "sha256": "dddbf085cf72d44abbd12576cde1150ce486f4b6a47a9bfe8326be02663f4835"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne100A1.08093981889R1.arff",
+      "size_bytes": 9520473,
+      "sha256": "5b733e375d1bf42c97a0699554c3c3a31e015f2e7fff0768ede3fb527bb35603"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne100A1.08093981889R2.arff",
+      "size_bytes": 9530543,
+      "sha256": "f28d23566b71a5bcbd9fc42faa90eabec6951320e8edc8dc20dabb0fd7412633"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne100A1.08093981889R3.arff",
+      "size_bytes": 9524793,
+      "sha256": "d6f9640e9be6ce23bee18d3fde13361e497b713d2988a98ba9a97a39821ae5b2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne100A1.08093981889R4.arff",
+      "size_bytes": 9520313,
+      "sha256": "9d5aa56fd2e538891f187dd97491ea4a6cd5ccaabfa33f4ac4ec0bf46c870289"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne100A1.08093981889R5.arff",
+      "size_bytes": 9522160,
+      "sha256": "ef7a9dd12a2192c0547b0b7ec829c1038809882987bf5d128206588b5de7d3ab"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne100A1.08093981889R6.arff",
+      "size_bytes": 9528393,
+      "sha256": "f46e5f50f7f5a8fb746be555df6f37edee6f60fdc8f1787f5d39852203fce1b1"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne100A1.08093981889R7.arff",
+      "size_bytes": 9523697,
+      "sha256": "f2fed4a36d1ac3a1ebca2defa20d9edd6ee923edf80b46653c3bef35b41c082e"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne100A1.08093981889R8.arff",
+      "size_bytes": 9523463,
+      "sha256": "31c597cb8948888362851fb962829f70efa56993fddec805c6b40c7f4de7f4c4"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne100A1.08093981889R9.arff",
+      "size_bytes": 9521501,
+      "sha256": "ac4f50b1bd4dc3bca17af095ace518950abd58bf388078696dc26bd69c385b67"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne50A1.19992287348R0.arff",
+      "size_bytes": 4764265,
+      "sha256": "2ea7f83fd0869ab2d3ba0dc49f174814521ba602bdbdb9906dfd11b35273c76d"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne50A1.19992287348R1.arff",
+      "size_bytes": 4765714,
+      "sha256": "a4f94e19c2529e4b090cc119246892c6a8241991c945ec01b702c62f59c9202c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne50A1.19992287348R2.arff",
+      "size_bytes": 4762813,
+      "sha256": "f743062d7af302191b6733d630068d29a73b88c4bcf663817ff8b9f837c3c992"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne50A1.19992287348R3.arff",
+      "size_bytes": 4766409,
+      "sha256": "6eb0aee3ebfaeb3fb965f8db98f3ef14c402a3a67a2a83bb9d45368f477f5532"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne50A1.19992287348R4.arff",
+      "size_bytes": 4764211,
+      "sha256": "c52b9c317a108489e5844d8617f9e0970ddb021e7415d70057a37a3a4f2926c8"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne50A1.19992287348R5.arff",
+      "size_bytes": 4764268,
+      "sha256": "a1b0bea66505ed671621ebf9bc85996f715fa3942bcb8f221e8236fb2bacb0ba"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne50A1.19992287348R6.arff",
+      "size_bytes": 4764412,
+      "sha256": "7b9f1fa7c715a5659ff854edfea4f8ea22f0dbfcf194dcc275dca83380a3c242"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne50A1.19992287348R7.arff",
+      "size_bytes": 4765028,
+      "sha256": "4f5b0c43e3d1fdedc8d39bb080f733749e1a7b95983bd826949b12db4c6b628c"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne50A1.19992287348R8.arff",
+      "size_bytes": 4765113,
+      "sha256": "633e3c66c8c54283450fa2fb1a1d08ed3e5874fdc0e7d647fa63dc6189d33cd5"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne50A1.19992287348R9.arff",
+      "size_bytes": 4765951,
+      "sha256": "ea6f37968f4ae961065facbd6d482cf3dc4b5327d74f9027683c3afe96d23953"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne5A1.78382139614R0.arff",
+      "size_bytes": 482301,
+      "sha256": "24b97f56e39ce830a7cc67e20790a3e2ee87665842bec8d9c4fda7501e2940e0"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne5A1.78382139614R1.arff",
+      "size_bytes": 481636,
+      "sha256": "7c1f4c31caae50c705a0855eb0a5f5f25cc365588fdef4c6b330406b3bba85d2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne5A1.78382139614R2.arff",
+      "size_bytes": 481870,
+      "sha256": "3d2b601a580591f40bf2fb68d5324924ca5d1d5fd5be04840ed58de1ed4461c0"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne5A1.78382139614R3.arff",
+      "size_bytes": 481811,
+      "sha256": "1fa969ad7ef5ef9a2368384ebb7c8b682e457b81908477227790ada5b17ee9a4"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne5A1.78382139614R4.arff",
+      "size_bytes": 481806,
+      "sha256": "dbf4f2d7e2d000a1ffbaaa10364406448ad5b4d29fdd3964f5fbfb24059c1f61"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne5A1.78382139614R5.arff",
+      "size_bytes": 481921,
+      "sha256": "340c0c6309fea799262453cbb25a754cf23cde0582f092c3145e9c35a9208752"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne5A1.78382139614R6.arff",
+      "size_bytes": 481749,
+      "sha256": "a68351eafffadd2b34d8c09c0b262ec105554bd8b96ff97211209cc494e88f03"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne5A1.78382139614R7.arff",
+      "size_bytes": 482071,
+      "sha256": "617cb0734ffb9b6cf033125958182983fba3bc8d4309b4f33eb12f096e860b24"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne5A1.78382139614R8.arff",
+      "size_bytes": 481739,
+      "sha256": "5a7d657f898915132745bde3900aaf89cf767d61cba625b8b5e372ee87ea1239"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_200Features/C50F200N2Ne5A1.78382139614R9.arff",
+      "size_bytes": 482196,
+      "sha256": "0ba9141cc25ec8e42867f680883746c69be5b6cd30e7ca051d31fe805bb0520d"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne100A1.24551188991R0.txt",
+      "size_bytes": 2145131,
+      "sha256": "83e1077d0f9f8752ce2aa822e0b2aa3c12bd9852f5eb1b3ac92d5e5673db3589"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne100A1.24551188991R1.txt",
+      "size_bytes": 2145003,
+      "sha256": "a08589fdc295e6a981fc6511abbe2fb1a1e78edfd10f29a5b431840420215fc7"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne100A1.24551188991R2.txt",
+      "size_bytes": 2142676,
+      "sha256": "608b2e61da11f7813116847611a9f80609b9dc065ef100ce00d9a7ddd96acd82"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne100A1.24551188991R3.txt",
+      "size_bytes": 2142303,
+      "sha256": "02d60bf135c283b305f4b54496d990c3b814546e178f8e6d0759aee325ed99a2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne100A1.24551188991R4.txt",
+      "size_bytes": 2145114,
+      "sha256": "462390ff4537bc8a0ea083cc4db2c2d39e0dc4aeb847133195bd956e46ad8a40"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne100A1.24551188991R5.txt",
+      "size_bytes": 2143011,
+      "sha256": "ccb495d4d2fedcbc5580ab35a7253646365b642bc6983c3499fb2c2a56589eee"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne100A1.24551188991R6.txt",
+      "size_bytes": 2143554,
+      "sha256": "ac6c36e153ab84260ba81820a8bb0eb7aea7378d823ec6b38dbb1497cd54eae6"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne100A1.24551188991R7.txt",
+      "size_bytes": 2141235,
+      "sha256": "5172880a03b6f5bc4d2b05858061b50553ad9980cc6dd2f44aca2d3719729466"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne100A1.24551188991R8.txt",
+      "size_bytes": 2141476,
+      "sha256": "f7b7f5e3ca85402235d65ac5d57378c0ed68707e0233222279c0ec1249187c44"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne100A1.24551188991R9.txt",
+      "size_bytes": 2143377,
+      "sha256": "51338b63a22684bc253410c8a689e140d5a7f16fd5f288f54eb38342d8c811c3"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne50A1.29677321133R1.txt",
+      "size_bytes": 1072059,
+      "sha256": "c88e0063fa2b80676cbc802e37870e26c0580a8224ea615ffb04c287f03589a8"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne50A1.29677321133R2.txt",
+      "size_bytes": 1071546,
+      "sha256": "f35da5113019292cd4e4f714758f58fe75ce82db1800d8dd75c5d86c25e0ef67"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne50A1.29677321133R3.txt",
+      "size_bytes": 1073268,
+      "sha256": "2d5d453870310c1283774db59cfa66e4f9ac8f517ddea4c41bc173acc7d031f1"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne50A1.29677321133R4.txt",
+      "size_bytes": 1071609,
+      "sha256": "f5caf3876e0ecf4e3f8cf6d37872f23439992a892487c2f8b511b64397cbf6e9"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne50A1.29677321133R5.txt",
+      "size_bytes": 1072472,
+      "sha256": "18e6e1bb5e59a31f24c4d6d7287ca3438b444cdb00ce82025ce843cf34e2a85a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne50A1.29677321133R6.txt",
+      "size_bytes": 1072237,
+      "sha256": "2ca20f0009d3ed3ab45252fb2f1381278cc6ad3288df782665fd2910d7738e21"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne50A1.29677321133R7.txt",
+      "size_bytes": 1071110,
+      "sha256": "bca9adf4b00398a734e570f866b34fccfca895c59243f4338011fda9a63390b3"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne50A1.29677321133R8.txt",
+      "size_bytes": 1072174,
+      "sha256": "b63fb811aab7bcc22723e7c8cb8da749e64252c4844e634510bf6e921f90fe1a"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne50A1.29677321133R9.txt",
+      "size_bytes": 1072170,
+      "sha256": "793fe7b1be35305cce895b266584b97ab2af32fd00b435d4ace4549f0760c4b7"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne5A1.79816555412R0.txt",
+      "size_bytes": 107248,
+      "sha256": "82446eaaaa5685c63c3d80787dba9044dbaa7b5508e5d7a7ccb5f896b7fc90a8"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne5A1.79816555412R1.txt",
+      "size_bytes": 107155,
+      "sha256": "4c44b49f32b295f30b51fe396badeaf8d2f3ccb008b11f827cc1a3a366d09ea2"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne5A1.79816555412R2.txt",
+      "size_bytes": 107252,
+      "sha256": "f7a3b344925ccb0de4a7d69c344e02e1340de3aab4fafda45bc502dfa43065e1"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne5A1.79816555412R3.txt",
+      "size_bytes": 107131,
+      "sha256": "11ca74cae1762176cf8f65d8352230fd7ef6d349fac939849ccf844246fbc45b"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne5A1.79816555412R4.txt",
+      "size_bytes": 107294,
+      "sha256": "5da30faf90d8af67f3aa389cc9efad3ace0ac0ffa6d4f88d0d5ba12ed503123f"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne5A1.79816555412R5.txt",
+      "size_bytes": 107144,
+      "sha256": "f2665901a9dc6ec6d25d70f91722d451fbc6c3abae6157ef0748331e3e2feb6e"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne5A1.79816555412R6.txt",
+      "size_bytes": 107136,
+      "sha256": "20efb0b0e7ca8fd4ac1dbf583343b0f2c3b31730adbfd7b4f2c9ee3b1a1170af"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne5A1.79816555412R7.txt",
+      "size_bytes": 107024,
+      "sha256": "ea5db70afbafb9b776087c14a602cf9ae066daf7b32c5198af3e946c0aa6a25b"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne5A1.79816555412R8.txt",
+      "size_bytes": 107331,
+      "sha256": "1c84d971c891819d05fef240faa8b724850f2e80ac29cb8243909bcb160c3931"
+    },
+    {
+      "path": "raw/rsg/Rodriguez_datasets/C50_50Features/C50F50N2Ne5A1.79816555412R9.txt",
+      "size_bytes": 107117,
+      "sha256": "f92b5119ca363bd485b2a5d80ff63256c38d79c19134b4f2a8f598dd0148a81f"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+\begin{tabular}{lrrrrrr}
+\toprule
+ & No reduction & PCA & Kernel PCA & VAE & Isomap & MDS \\
+\midrule
+No reduction & -- & -- & -- & -- & -- & -- \\
+PCA & +0.177 & -- & -- & -- & -- & -- \\
+Kernel PCA & {\bfseries\boldmath +0.001} & +0.058 & -- & -- & -- & -- \\
+VAE & {\bfseries\boldmath +0.001} & +0.105 & $-$0.105 & -- & -- & -- \\
+Isomap & {\bfseries\boldmath +0.033} & +0.475 & {\bfseries\boldmath $-$0.033} & $-$0.674 & -- & -- \\
+MDS & +0.202 & $-$0.452 & {\bfseries\boldmath $-$0.011} & {\bfseries\boldmath $-$0.009} & $-$0.154 & -- \\
+\bottomrule
+\end{tabular}

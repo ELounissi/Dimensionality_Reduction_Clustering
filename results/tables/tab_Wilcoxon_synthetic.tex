@@ -1,0 +1,11 @@
+\begin{tabular}{lccccccccccccccc}
+\toprule
+ & \multicolumn{3}{c}{PCA} & \multicolumn{3}{c}{Kernel PCA} & \multicolumn{3}{c}{VAE} & \multicolumn{3}{c}{Isomap} & \multicolumn{3}{c}{MDS} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7} \cmidrule(lr){8-10} \cmidrule(lr){11-13} \cmidrule(lr){14-16}
+Clusterer & $k-1$ & 25\% & 50\% & $k-1$ & 25\% & 50\% & $k-1$ & 25\% & 50\% & $k-1$ & 25\% & 50\% & $k-1$ & 25\% & 50\% \\
+\midrule
+$k$-means & {\bfseries\boldmath $-$0.001} & {\bfseries\boldmath $-$0.002} & {\bfseries\boldmath $-$0.015} & {\bfseries\boldmath +0.043} & +0.163 & {\bfseries\boldmath +0.029} & $-$0.143 & $-$0.576 & +0.964 & {\bfseries\boldmath +0.007} & {\bfseries\boldmath +0.028} & {\bfseries\boldmath +0.009} & $-$0.057 & {\bfseries\boldmath $-$0.007} & {\bfseries\boldmath $-$0.008} \\
+AHC & +0.071 & {\bfseries\boldmath $-$0.032} & $-$0.256 & {\bfseries\boldmath +0.001} & +0.064 & {\bfseries\boldmath +0.010} & +0.553 & +0.955 & +0.806 & {\bfseries\boldmath +0.001} & {\bfseries\boldmath +0.006} & {\bfseries\boldmath +0.001} & {\bfseries\boldmath +0.004} & $-$0.171 & $-$0.786 \\
+GMM & $-$0.546 & $-$0.357 & +0.752 & +0.230 & +0.804 & +0.991 & {\bfseries\boldmath $-$0.001} & {\bfseries\boldmath $-$0.027} & $-$0.143 & $-$0.701 & +0.773 & +0.446 & {\bfseries\boldmath $-$0.040} & $-$0.219 & $-$0.103 \\
+OPTICS & $-$0.964 & $-$0.860 & $-$0.486 & {\bfseries\boldmath +0.032} & +0.055 & +0.071 & +0.117 & {\bfseries\boldmath +0.009} & {\bfseries\boldmath +0.016} & {\bfseries\boldmath +0.001} & {\bfseries\boldmath +0.005} & +0.066 & +0.471 & $-$0.910 & $-$0.518 \\
+\bottomrule\end{tabular}
