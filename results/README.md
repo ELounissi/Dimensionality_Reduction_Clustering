@@ -386,3 +386,7 @@ Figure 1 is the bundled illustration. Figures 2-10 and A.1 are generated from th
 ### Figure A.1
 
 ![Figure A.1](figures/figure_11.png)
+
+### Figure A.2
+
+![Figure A.2](figures/figure_12.png)

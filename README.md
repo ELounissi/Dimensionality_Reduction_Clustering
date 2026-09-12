@@ -18,6 +18,8 @@ Welcome! This project explores a practical question: when does a smaller feature
 
 ![Reducer and clusterer results](results/figures/figure_11.png)
 
+![Reducer and clusterer results](results/figures/figure_12.png)
+
 This view summarizes the largest mean real-data ARI change over the three dimension rules for each reducer and clusterer. The [results guide](results/README.md) explains the signs, significance markers, and full comparisons.
 
 ### The workflow at a glance
