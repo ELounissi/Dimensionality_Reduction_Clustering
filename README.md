@@ -16,14 +16,14 @@ Welcome! This project explores a practical question: when does a smaller feature
 | Rebuild the published outputs | `python run_benchmark.py --from-frozen` |
 | Run the complete benchmark | `python run_benchmark.py` |
 
-The following view summarizes the largest mean real-data ARI change over the three levels of dimensionality reduction for each reducer and clusterer. The [results guide](results/README.md) explains the signs, significance markers, and full comparisons.
 
 ![Reducer and clusterer results](results/figures/figure_11.png)
 
-The following view summarizes the largest mean synthetic-data ARI change over the three levels of dimensionality reduction for each reducer and clusterer. The [results guide](results/README.md) explains the signs, significance markers, and full comparisons.
+The above figure summarizes the largest mean real-data ARI change over the three levels of dimensionality reduction for each reducer and clusterer. The [results guide](results/README.md) explains the signs, significance markers, and full comparisons.
 
 ![Reducer and clusterer results](results/figures/figure_12.png)
 
+The above figure summarizes the largest mean synthetic-data ARI change over the three levels of dimensionality reduction for each reducer and clusterer. The [results guide](results/README.md) explains the signs, significance markers, and full comparisons.
 
 
 ### The workflow at a glance
