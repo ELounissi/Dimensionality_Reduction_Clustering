@@ -25,6 +25,14 @@ The above figure summarizes the largest mean real-data ARI change over the three
 
 The above figure summarizes the largest mean synthetic-data ARI change over the three levels of dimensionality reduction for each reducer and clusterer. The [results guide](results/README.md) explains the signs, significance markers, and full comparisons.
 
+Figure 11 B :
+
+![Figure 11 B: Maximum ARI gains over no-reduction on real-world datasets](results/figures/figure_11_b.png)
+
+Figure 12 B :
+
+![Figure 12 B: Maximum ARI gains over no-reduction on synthetic datasets](results/figures/figure_12_b.png)
+
 
 ### The workflow at a glance
 
